@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 09:50:17 PM BST",
-  "last_updated_iso": "2026-11-21T15:50:17.409Z",
+  "last_updated": "21 Nov 2026, 10:00:28 PM BST",
+  "last_updated_iso": "2026-11-21T16:00:28.645Z",
   "total_events": 322,
-  "live_match": 40,
+  "live_match": 41,
   "events": [
     {
       "id": "2803",
@@ -1017,6 +1017,43 @@
       "status": "LIVE"
     },
     {
+      "id": "2870",
+      "date": "21/11/2026",
+      "time": "10:15 PM",
+      "league": "Football | Ligue 1",
+      "team1": "OGC Nice",
+      "team2": "PSG",
+      "logo1": "https://img.sofascore.com/api/v1/team/1661/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1644/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "BeIN SPORTS3 - FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795271035-0-0-73810dfb1edb75fa8fdbfa736eb291c2",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2872",
       "date": "21/11/2026",
       "time": "8:30 PM",
@@ -1704,21 +1741,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/39/image",
       "logo2": "https://img.sofascore.com/api/v1/team/42/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2870",
-      "date": "21/11/2026",
-      "time": "10:15 PM",
-      "league": "Football | Ligue 1",
-      "team1": "OGC Nice",
-      "team2": "PSG",
-      "logo1": "https://img.sofascore.com/api/v1/team/1661/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1644/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
