@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 09:40:22 PM BST",
-  "last_updated_iso": "2026-11-21T15:40:22.221Z",
+  "last_updated": "21 Nov 2026, 09:50:17 PM BST",
+  "last_updated_iso": "2026-11-21T15:50:17.409Z",
   "total_events": 322,
-  "live_match": 39,
+  "live_match": 40,
   "events": [
     {
       "id": "2803",
@@ -1506,6 +1506,29 @@
       "status": "LIVE"
     },
     {
+      "id": "2900",
+      "date": "21/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Kocaelispor",
+      "team2": "Fenerbahce",
+      "logo1": "https://img.sofascore.com/api/v1/team/3065/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3052/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=92c94e95db79e88739e36883f9479b08&wsABSTime=1795314110",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel61/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3132",
       "date": "21/11/2026",
       "time": "4:00 PM",
@@ -1786,21 +1809,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/5067/image",
       "logo2": "https://img.sofascore.com/api/v1/team/47321/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2900",
-      "date": "21/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Kocaelispor",
-      "team2": "Fenerbahce",
-      "logo1": "https://img.sofascore.com/api/v1/team/3065/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3052/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
       "streams": [],
