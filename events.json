@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 06:20:18 PM BST",
-  "last_updated_iso": "2026-11-21T12:20:18.492Z",
+  "last_updated": "21 Nov 2026, 06:30:22 PM BST",
+  "last_updated_iso": "2026-11-21T12:30:22.907Z",
   "total_events": 341,
-  "live_match": 17,
+  "live_match": 20,
   "events": [
     {
       "id": "2803",
@@ -643,6 +643,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2894",
+      "date": "21/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | LaLiga 2",
+      "team1": "Sabadell",
+      "team2": "Granada",
+      "logo1": "https://img.sofascore.com/api/v1/team/24335/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/33779/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "LaLiga Hypermotion",
+          "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        },
+        {
+          "name": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=57bb0150bba43eaf62a3497dd2528c2c&wsABSTime=1795303476",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2897",
       "date": "21/11/2026",
       "time": "4:30 PM",
@@ -673,6 +703,66 @@
           "name": "Server - 3",
           "url": "http://193.47.62.41/hls/UPPPAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2898",
+      "date": "21/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Galatasaray",
+      "team2": "Samsunspor",
+      "logo1": "https://img.sofascore.com/api/v1/team/3061/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3053/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "BeIN SPORTS3 - FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "name": "beIN ESPNAOL FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel10.flv?wsSecret=ca3fd2ba11735af6dd96075c4f3be3e4&wsABSTime=1795303279",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2899",
+      "date": "21/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Amed SK",
+      "team2": "Caykur Rizespor",
+      "logo1": "https://img.sofascore.com/api/v1/team/207011/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3064/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel88.flv?wsSecret=526e5879bffaeeb8cbd69a740245411e&wsABSTime=1795303174",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel88/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1400,21 +1490,6 @@
       "status": "ENDED"
     },
     {
-      "id": "2894",
-      "date": "21/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Sabadell",
-      "team2": "Granada",
-      "logo1": "https://img.sofascore.com/api/v1/team/24335/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/33779/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2895",
       "date": "21/11/2026",
       "time": "9:15 PM",
@@ -1439,36 +1514,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/5067/image",
       "logo2": "https://img.sofascore.com/api/v1/team/47321/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2898",
-      "date": "21/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Galatasaray",
-      "team2": "Samsunspor",
-      "logo1": "https://img.sofascore.com/api/v1/team/3061/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3053/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2899",
-      "date": "21/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Amed SK",
-      "team2": "Caykur Rizespor",
-      "logo1": "https://img.sofascore.com/api/v1/team/207011/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3064/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
       "streams": [],
