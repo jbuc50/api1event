@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 10:00:28 PM BST",
-  "last_updated_iso": "2026-11-21T16:00:28.645Z",
-  "total_events": 322,
-  "live_match": 41,
+  "last_updated": "21 Nov 2026, 10:10:18 PM BST",
+  "last_updated_iso": "2026-11-21T16:10:18.739Z",
+  "total_events": 320,
+  "live_match": 40,
   "events": [
     {
       "id": "2803",
@@ -1049,6 +1049,13 @@
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1598,29 +1605,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "NDZiYmY2NDUxMjJkZTBkZjBjZDBiMTlkNDQ4N2UyY2U6NDVlODQ5NTcyNjhjZTU2ZDUzYWU2ZDBmYWRlYzU5NjQ="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3153",
-      "date": "21/11/2026",
-      "time": "7:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Cameroon U17",
-      "team2": "Venezuela U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4751/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "D SPORTS ++ FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
         }
       ],
       "status": "LIVE"
@@ -5221,21 +5205,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3154",
-      "date": "21/11/2026",
-      "time": "8:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Dom Rep U20",
-      "team2": "Montenegro U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/21813/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7139/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
