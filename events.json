@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 08:20:27 PM BST",
-  "last_updated_iso": "2026-11-21T14:20:27.737Z",
-  "total_events": 337,
-  "live_match": 26,
+  "last_updated": "21 Nov 2026, 08:30:21 PM BST",
+  "last_updated_iso": "2026-11-21T14:30:21.640Z",
+  "total_events": 336,
+  "live_match": 25,
   "events": [
     {
       "id": "2803",
@@ -1015,29 +1015,6 @@
         {
           "name": "Server - 1",
           "url": "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3131",
-      "date": "21/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Sri Lanka A",
-      "team2": "Hong Kong, China",
-      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4765/image",
-      "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv - aq",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795282335~acl=/*~id=62149777860658370208685505764532~hmac=f1208fc027d34823a2ecb8f71321e8d9418978f4c0bcbbe5552e47232aac243a",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
