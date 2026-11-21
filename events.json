@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 06:30:22 PM BST",
-  "last_updated_iso": "2026-11-21T12:30:22.907Z",
-  "total_events": 341,
-  "live_match": 20,
+  "last_updated": "21 Nov 2026, 06:40:17 PM BST",
+  "last_updated_iso": "2026-11-21T12:40:17.958Z",
+  "total_events": 340,
+  "live_match": 19,
   "events": [
     {
       "id": "2803",
@@ -666,43 +666,6 @@
           "name": "hd quality",
           "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=57bb0150bba43eaf62a3497dd2528c2c&wsABSTime=1795303476",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2897",
-      "date": "21/11/2026",
-      "time": "4:30 PM",
-      "league": "Football | Super Lig",
-      "team1": "Genclerbirligi",
-      "team2": "Gaziantep F.K.",
-      "logo1": "https://img.sofascore.com/api/v1/team/7802/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5138/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795252870-0-0-8fb0bf451d5cf5be3a82e3cc4850849d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.41/hls/UPPPAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
