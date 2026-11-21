@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 12:40:17 AM BST",
-  "last_updated_iso": "2026-11-21T18:40:17.421Z",
-  "total_events": 282,
-  "live_match": 12,
+  "last_updated": "22 Nov 2026, 12:50:18 AM BST",
+  "last_updated_iso": "2026-11-21T18:50:18.633Z",
+  "total_events": 281,
+  "live_match": 13,
   "events": [
     {
       "id": "2803",
@@ -730,6 +730,36 @@
       "status": "LIVE"
     },
     {
+      "id": "2954",
+      "date": "22/11/2026",
+      "time": "1:00 AM",
+      "league": "Football | MLS",
+      "team1": "Revolution",
+      "team2": "Philadelphia Union",
+      "logo1": "https://img.sofascore.com/api/v1/team/2511/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/39833/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel28.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795285339-0-0-2c96711340d876e5b647df84e1a77dc3",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3198",
       "date": "21/11/2026",
       "time": "8:30 PM",
@@ -874,21 +904,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/21845/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1954/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2912",
-      "date": "22/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Liga Pro",
-      "team1": "Tecnico Universitario",
-      "team2": "Deportivo Cuenca",
-      "logo1": "https://img.sofascore.com/api/v1/team/21941/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5251/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -1504,21 +1519,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3051/image",
       "logo2": "https://img.sofascore.com/api/v1/team/7040/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2954",
-      "date": "22/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | MLS",
-      "team1": "Revolution",
-      "team2": "Philadelphia Union",
-      "logo1": "https://img.sofascore.com/api/v1/team/2511/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/39833/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
       "streams": [],
