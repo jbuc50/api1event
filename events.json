@@ -1,8 +1,8 @@
 {
-  "last_updated": "21 Nov 2026, 06:40:17 PM BST",
-  "last_updated_iso": "2026-11-21T12:40:17.958Z",
+  "last_updated": "21 Nov 2026, 06:50:21 PM BST",
+  "last_updated_iso": "2026-11-21T12:50:21.040Z",
   "total_events": 340,
-  "live_match": 19,
+  "live_match": 22,
   "events": [
     {
       "id": "2803",
@@ -585,6 +585,101 @@
       "status": "LIVE"
     },
     {
+      "id": "2881",
+      "date": "21/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Serie A",
+      "team1": "Lazio",
+      "team2": "Lecce",
+      "logo1": "https://img.sofascore.com/api/v1/team/2699/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2689/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795263728-0-0-906930782e5b665300900a43f6397bbb",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel22.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2882",
+      "date": "21/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | Serie A",
+      "team1": "Como",
+      "team2": "Cagliari",
+      "logo1": "https://img.sofascore.com/api/v1/team/2704/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2719/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795263639-0-0-6c099bbc92ce97f1d49029f64556668b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.jorvakstreamcache.com/live/channel10.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://playback.livetl004.com/live/6ae3500b1ba0f2f86b29d7a5.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2890",
       "date": "21/11/2026",
       "time": "7:00 PM",
@@ -878,6 +973,29 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3153",
+      "date": "21/11/2026",
+      "time": "7:30 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Cameroon U17",
+      "team2": "Venezuela U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4751/image",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "D SPORTS ++ FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
         }
       ],
       "status": "LIVE"
@@ -1327,36 +1445,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2530/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2677/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2881",
-      "date": "21/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | Serie A",
-      "team1": "Lazio",
-      "team2": "Lecce",
-      "logo1": "https://img.sofascore.com/api/v1/team/2699/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2689/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2882",
-      "date": "21/11/2026",
-      "time": "8:00 PM",
-      "league": "Football | Serie A",
-      "team1": "Como",
-      "team2": "Cagliari",
-      "logo1": "https://img.sofascore.com/api/v1/team/2704/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2719/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -4896,21 +4984,6 @@
       "team2": "Costa Rica U17",
       "logo1": "https://img.sofascore.com/api/v1/team/4835/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4756/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3153",
-      "date": "21/11/2026",
-      "time": "7:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Cameroon U17",
-      "team2": "Venezuela U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4751/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
