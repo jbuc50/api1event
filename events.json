@@ -1,8 +1,8 @@
 {
-  "last_updated": "23 Nov 2026, 03:10:18 AM BST",
-  "last_updated_iso": "2026-11-22T21:10:18.112Z",
-  "total_events": 209,
-  "live_match": 10,
+  "last_updated": "23 Nov 2026, 03:20:16 AM BST",
+  "last_updated_iso": "2026-11-22T21:20:16.720Z",
+  "total_events": 206,
+  "live_match": 9,
   "events": [
     {
       "id": "2803",
@@ -245,79 +245,42 @@
       "status": "LIVE"
     },
     {
-      "id": "2960",
+      "id": "2968",
       "date": "23/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Rosario Central",
-      "team2": "Gimnasia Mendoza",
-      "logo1": "https://img.sofascore.com/api/v1/team/3217/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/188441/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live3.klerovamediadelivery.com/live/channel23.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001795367996-0-0-c28b6b650ec999cd26ada86d2b405f2a",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "http://193.47.62.55/hls/VBVBVBAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2967",
-      "date": "23/11/2026",
-      "time": "1:00 AM",
+      "time": "3:30 AM",
       "league": "Football | Brasileirão Série A",
-      "team1": "Athletico-PR",
-      "team2": "Remo",
-      "logo1": "https://img.sofascore.com/api/v1/team/1967/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2012/image",
+      "team1": "Fluminense",
+      "team2": "Mirassol Futebol Clube",
+      "logo1": "https://img.sofascore.com/api/v1/team/1961/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/21982/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
-          "name": "PREMIERER1 FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "name": "PREMIERE2 BR FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+          "drm": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
         },
         {
           "name": "Server - 1",
-          "url": "https://live3.klerovamediadelivery.com/live/channel17.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+          "url": "https://live3.klerovamediadelivery.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001795367971-0-0-1d4cb7fd0fdea88606dcc7a7ff8703fd",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795368043-0-0-c92bae3888288c769219708c83839a41",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 3",
-          "url": "http://193.47.62.55/hls/VBVBVBAAA.m3u8",
+          "url": "http://193.47.62.44/hls/ZIIIAAAqQQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -326,21 +289,28 @@
       "status": "LIVE"
     },
     {
-      "id": "2970",
+      "id": "2971",
       "date": "23/11/2026",
-      "time": "1:00 AM",
+      "time": "3:30 AM",
       "league": "Football | Liga Pro",
-      "team1": "Orense",
-      "team2": "Mushuc Runa",
-      "logo1": "https://img.sofascore.com/api/v1/team/277525/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/134976/image",
+      "team1": "LDU",
+      "team2": "SD Aucas",
+      "logo1": "https://img.sofascore.com/api/v1/team/5257/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/5249/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
-          "name": "Server - 1",
-          "url": "http://193.47.62.55/hls/VBVBVB.m3u8",
+          "name": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=ae7a672c55c35e8aa08f4a25b6a26a9e&wsABSTime=1795411278",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/ZIIIAAAqQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -822,21 +792,6 @@
       "status": "ENDED"
     },
     {
-      "id": "2968",
-      "date": "23/11/2026",
-      "time": "3:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Fluminense",
-      "team2": "Mirassol Futebol Clube",
-      "logo1": "https://img.sofascore.com/api/v1/team/1961/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/21982/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2969",
       "date": "23/11/2026",
       "time": "4:30 AM",
@@ -846,21 +801,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/1999/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1974/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2971",
-      "date": "23/11/2026",
-      "time": "3:30 AM",
-      "league": "Football | Liga Pro",
-      "team1": "LDU",
-      "team2": "SD Aucas",
-      "logo1": "https://img.sofascore.com/api/v1/team/5257/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5249/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
