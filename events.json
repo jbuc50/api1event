@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 09:20:17 PM BST",
-  "last_updated_iso": "2026-11-22T15:20:17.289Z",
+  "last_updated": "22 Nov 2026, 09:30:21 PM BST",
+  "last_updated_iso": "2026-11-22T15:30:21.578Z",
   "total_events": 236,
-  "live_match": 17,
+  "live_match": 18,
   "events": [
     {
       "id": "2803",
@@ -865,6 +865,13 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "CANAL5 MX+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         }
       ],
       "status": "LIVE"
@@ -893,6 +900,43 @@
           "name": "Server - 1",
           "url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=7d4da048b514cf9de1adab12eff1edc4&wsABSTime=1795397083",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2953",
+      "date": "22/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Trabzonspor",
+      "team2": "Eyupspor",
+      "logo1": "https://img.sofascore.com/api/v1/team/3051/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/7040/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "BeIN SPORTS - FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795357465-0-0-e19b33882bf86212830ff3173fd24714",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1124,6 +1168,13 @@
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "low quality",
+          "url": "http://193.47.62.44/hls/DUUU.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1309,21 +1360,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/24264/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2839/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2953",
-      "date": "22/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Trabzonspor",
-      "team2": "Eyupspor",
-      "logo1": "https://img.sofascore.com/api/v1/team/3051/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7040/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
       "streams": [],
