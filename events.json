@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 10:40:28 PM BST",
-  "last_updated_iso": "2026-11-22T16:40:28.051Z",
+  "last_updated": "22 Nov 2026, 10:50:21 PM BST",
+  "last_updated_iso": "2026-11-22T16:50:21.797Z",
   "total_events": 224,
-  "live_match": 11,
+  "live_match": 13,
   "events": [
     {
       "id": "2803",
@@ -566,6 +566,101 @@
       "status": "LIVE"
     },
     {
+      "id": "2934",
+      "date": "22/11/2026",
+      "time": "11:00 PM",
+      "league": "Football | Serie A",
+      "team1": "AC Milan",
+      "team2": "Frosinone",
+      "logo1": "https://img.sofascore.com/api/v1/team/2692/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2801/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795364352-0-0-2ad9a9d751e5d8e5711ab53fa46f6f21",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912140_lhd.m3u8?auth_key=1795357689-0-0-760e61998b8360b41e11aa8cc0404ab5",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1795357689-0-0-27e3bbccb7668369d32cf481b484c00e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2940",
+      "date": "22/11/2026",
+      "time": "9:45 PM",
+      "league": "Football | Eredivisie",
+      "team1": "Go Ahead Eagles",
+      "team2": "Fortuna Sittard",
+      "logo1": "https://img.sofascore.com/api/v1/team/2979/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2957/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel17.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001795364484-0-0-9da7eac8a345c3850c43f941ead2367d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/DUUUVVVAAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2943",
       "date": "22/11/2026",
       "time": "9:15 PM",
@@ -914,36 +1009,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "2934",
-      "date": "22/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | Serie A",
-      "team1": "AC Milan",
-      "team2": "Frosinone",
-      "logo1": "https://img.sofascore.com/api/v1/team/2692/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2801/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2940",
-      "date": "22/11/2026",
-      "time": "9:45 PM",
-      "league": "Football | Eredivisie",
-      "team1": "Go Ahead Eagles",
-      "team2": "Fortuna Sittard",
-      "logo1": "https://img.sofascore.com/api/v1/team/2979/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2957/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
     },
     {
       "id": "2944",
