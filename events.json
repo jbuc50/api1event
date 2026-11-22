@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 09:50:16 AM BST",
-  "last_updated_iso": "2026-11-22T03:50:16.624Z",
+  "last_updated": "22 Nov 2026, 10:00:25 AM BST",
+  "last_updated_iso": "2026-11-22T04:00:25.844Z",
   "total_events": 254,
-  "live_match": 3,
+  "live_match": 4,
   "events": [
     {
       "id": "2803",
@@ -240,6 +240,29 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2958",
+      "date": "22/11/2026",
+      "time": "10:40 AM",
+      "league": "Cricket | Womens Big Bash League",
+      "team1": "Brisbane Heat Women",
+      "team2": "Adelaide Strikers Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274884/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274888/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
       "status": "LIVE"
@@ -749,21 +772,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3051/image",
       "logo2": "https://img.sofascore.com/api/v1/team/7040/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2958",
-      "date": "22/11/2026",
-      "time": "10:40 AM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Brisbane Heat Women",
-      "team2": "Adelaide Strikers Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274884/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274888/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
