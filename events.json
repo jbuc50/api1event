@@ -1,8 +1,8 @@
 {
-  "last_updated": "23 Nov 2026, 12:50:18 AM BST",
-  "last_updated_iso": "2026-11-22T18:50:18.017Z",
+  "last_updated": "23 Nov 2026, 01:00:25 AM BST",
+  "last_updated_iso": "2026-11-22T19:00:25.416Z",
   "total_events": 214,
-  "live_match": 8,
+  "live_match": 9,
   "events": [
     {
       "id": "2803",
@@ -516,6 +516,13 @@
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.55/hls/VBVBVBAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -551,6 +558,36 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001795367971-0-0-1d4cb7fd0fdea88606dcc7a7ff8703fd",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.55/hls/VBVBVBAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2970",
+      "date": "23/11/2026",
+      "time": "1:00 AM",
+      "league": "Football | Liga Pro",
+      "team1": "Orense",
+      "team2": "Mushuc Runa",
+      "logo1": "https://img.sofascore.com/api/v1/team/277525/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/134976/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.55/hls/VBVBVB.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -737,21 +774,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/1999/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1974/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2970",
-      "date": "23/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Liga Pro",
-      "team1": "Orense",
-      "team2": "Mushuc Runa",
-      "logo1": "https://img.sofascore.com/api/v1/team/277525/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/134976/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
