@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 06:30:21 PM BST",
-  "last_updated_iso": "2026-11-22T12:30:21.530Z",
-  "total_events": 250,
-  "live_match": 17,
+  "last_updated": "22 Nov 2026, 06:40:16 PM BST",
+  "last_updated_iso": "2026-11-22T12:40:16.925Z",
+  "total_events": 249,
+  "live_match": 16,
   "events": [
     {
       "id": "2803",
@@ -660,29 +660,6 @@
           "name": "hd quality",
           "url": "https://live1.quickscoreboardz.com/live/channel38.flv?wsSecret=28016ebf2fd5ba3521b83711e44411bc&wsABSTime=1795392095",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "2950",
-      "date": "22/11/2026",
-      "time": "4:30 PM",
-      "league": "Football | Super Lig",
-      "team1": "Erzurumspor FK",
-      "team2": "Goztepe",
-      "logo1": "https://img.sofascore.com/api/v1/team/55603/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "http://193.47.62.44/hls/GLLLAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
