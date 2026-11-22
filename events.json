@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 08:00:25 PM BST",
-  "last_updated_iso": "2026-11-22T14:00:25.354Z",
-  "total_events": 247,
-  "live_match": 21,
+  "last_updated": "22 Nov 2026, 08:10:17 PM BST",
+  "last_updated_iso": "2026-11-22T14:10:17.385Z",
+  "total_events": 246,
+  "live_match": 20,
   "events": [
     {
       "id": "2803",
@@ -345,57 +345,6 @@
       "status": "LIVE"
     },
     {
-      "id": "2917",
-      "date": "22/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Championship",
-      "team1": "Burnley",
-      "team2": "Blackburn",
-      "logo1": "https://img.sofascore.com/api/v1/team/6/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/46/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "BEIN3 SPORTS FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795326369-0-0-fd6403f62d5410b113944085e6d6f801",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1795326429-0-0-afccac06d1e3de5d61bd81557392cd66",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live2.jorvakstreamcache.com/live/channel11.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "2922",
       "date": "22/11/2026",
       "time": "8:00 PM",
@@ -447,6 +396,13 @@
           "name": "Server - 4",
           "url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
