@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 04:20:18 PM BST",
-  "last_updated_iso": "2026-11-22T10:20:18.634Z",
+  "last_updated": "22 Nov 2026, 04:30:32 PM BST",
+  "last_updated_iso": "2026-11-22T10:30:32.215Z",
   "total_events": 252,
-  "live_match": 6,
+  "live_match": 7,
   "events": [
     {
       "id": "2803",
@@ -238,6 +238,29 @@
           "name": "sonyliv - (kan)",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795339937~acl=/*~id=57033487110644542361717385028134~hmac=54ff19a9d17d906df5df2800bde8edc997de61602f2235ea7e0d5ae08d4728bc",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2950",
+      "date": "22/11/2026",
+      "time": "4:30 PM",
+      "league": "Football | Super Lig",
+      "team1": "Erzurumspor FK",
+      "team2": "Goztepe",
+      "logo1": "https://img.sofascore.com/api/v1/team/55603/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.44/hls/GLLLAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -863,21 +886,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/24264/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2839/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2950",
-      "date": "22/11/2026",
-      "time": "4:30 PM",
-      "league": "Football | Super Lig",
-      "team1": "Erzurumspor FK",
-      "team2": "Goztepe",
-      "logo1": "https://img.sofascore.com/api/v1/team/55603/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3054/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
       "streams": [],
