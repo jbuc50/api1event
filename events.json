@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 11:50:17 AM BST",
-  "last_updated_iso": "2026-11-22T05:50:17.612Z",
+  "last_updated": "22 Nov 2026, 12:00:26 PM BST",
+  "last_updated_iso": "2026-11-22T06:00:26.825Z",
   "total_events": 254,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
     {
       "id": "2803",
@@ -284,6 +284,43 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZjkxYjhiZjA2ZjNlNzkxZTQxMjM4YjQxOTAzMTFjOWU6ZWZmNWI4ZmFmZWYxZjhiM2Q5ODhiZTM4ZmY3ZTUzOWU="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3133",
+      "date": "22/11/2026",
+      "time": "12:00 PM",
+      "league": "Cricket | ACC Emerging Teams Asia Cup",
+      "team1": "United Arab Emirates",
+      "team2": "Nepal",
+      "logo1": "https://img.sofascore.com/api/v1/team/4727/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187772/image",
+      "leagueLogo": "",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795369765~acl=/*~id=66135959852873016590239154379660~hmac=0aedb9ac3457175d10c8bef8868cf21c994db2e4df99f8eb3144e778cb04ff06",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "starzplay - aq",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
+        },
+        {
+          "name": "starzplay - aq",
+          "url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MGFlNGYxNjJlZWMzZTZmMmI1ODBhNWJmMGY0YTY0ZDQ6MDM0ODMzMzVkYjgxY2JhNWJiY2Y1MWI2ZDMxMTk2ZDk="
         }
       ],
       "status": "LIVE"
@@ -3283,21 +3320,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274885/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3133",
-      "date": "22/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "United Arab Emirates",
-      "team2": "Nepal",
-      "logo1": "https://img.sofascore.com/api/v1/team/4727/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187772/image",
-      "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
       "streams": [],
