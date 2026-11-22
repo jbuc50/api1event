@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 01:20:18 PM BST",
-  "last_updated_iso": "2026-11-22T07:20:18.046Z",
+  "last_updated": "22 Nov 2026, 01:30:22 PM BST",
+  "last_updated_iso": "2026-11-22T07:30:22.348Z",
   "total_events": 253,
-  "live_match": 5,
+  "live_match": 6,
   "events": [
     {
       "id": "2803",
@@ -284,6 +284,29 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZjkxYjhiZjA2ZjNlNzkxZTQxMjM4YjQxOTAzMTFjOWU6ZWZmNWI4ZmFmZWYxZjhiM2Q5ODhiZTM4ZmY3ZTUzOWU="
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2959",
+      "date": "22/11/2026",
+      "time": "2:10 PM",
+      "league": "Cricket | Womens Big Bash League",
+      "team1": "Melbourne Stars Women",
+      "team2": "Melbourne Renegades Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
       "status": "LIVE"
@@ -844,21 +867,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3051/image",
       "logo2": "https://img.sofascore.com/api/v1/team/7040/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2959",
-      "date": "22/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Womens Big Bash League",
-      "team1": "Melbourne Stars Women",
-      "team2": "Melbourne Renegades Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274886/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274887/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
