@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 07:00:28 PM BST",
-  "last_updated_iso": "2026-11-22T13:00:28.226Z",
+  "last_updated": "22 Nov 2026, 07:10:21 PM BST",
+  "last_updated_iso": "2026-11-22T13:10:21.975Z",
   "total_events": 249,
-  "live_match": 16,
+  "live_match": 19,
   "events": [
     {
       "id": "2803",
@@ -530,6 +530,87 @@
       "status": "LIVE"
     },
     {
+      "id": "2938",
+      "date": "22/11/2026",
+      "time": "7:30 PM",
+      "league": "Football | Eredivisie",
+      "team1": "Sparta Rotterdam",
+      "team2": "AZ Alkmaar",
+      "logo1": "https://img.sofascore.com/api/v1/team/2960/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2950/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795350279-0-0-b7a35b2adbc31856c36d6eb6aa0e16e1",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/ZUUUAAQQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2939",
+      "date": "22/11/2026",
+      "time": "7:30 PM",
+      "league": "Football | Eredivisie",
+      "team1": "Ajax",
+      "team2": "ADO Den Haag",
+      "logo1": "https://img.sofascore.com/api/v1/team/2953/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2966/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "SportDigital FussBall",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.tanrixstreamorigin.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001795349982-0-0-d607b52c5293fad434d317713587206b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/ZUUUAAQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "2942",
       "date": "22/11/2026",
       "time": "7:00 PM",
@@ -630,6 +711,13 @@
           "name": "Server - 8",
           "url": "https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -866,6 +954,36 @@
       "status": "LIVE"
     },
     {
+      "id": "3160",
+      "date": "22/11/2026",
+      "time": "7:30 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "France U17",
+      "team2": "Saudi Arabia U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4481/image",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5087",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel68.flv?wsSecret=61bc5031a2f8b864e4e5a8b5e4b4972c&wsABSTime=1795393427",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel68/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.44/hls/ZUUU.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3199",
       "date": "22/11/2026",
       "time": "4:00 PM",
@@ -1084,36 +1202,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2692/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2801/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2938",
-      "date": "22/11/2026",
-      "time": "7:30 PM",
-      "league": "Football | Eredivisie",
-      "team1": "Sparta Rotterdam",
-      "team2": "AZ Alkmaar",
-      "logo1": "https://img.sofascore.com/api/v1/team/2960/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2950/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2939",
-      "date": "22/11/2026",
-      "time": "7:30 PM",
-      "league": "Football | Eredivisie",
-      "team1": "Ajax",
-      "team2": "ADO Den Haag",
-      "logo1": "https://img.sofascore.com/api/v1/team/2953/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2966/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -3784,21 +3872,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3160",
-      "date": "22/11/2026",
-      "time": "7:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "France U17",
-      "team2": "Saudi Arabia U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4481/image",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5087",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
