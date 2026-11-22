@@ -1,8 +1,8 @@
 {
-  "last_updated": "22 Nov 2026, 08:50:18 PM BST",
-  "last_updated_iso": "2026-11-22T14:50:18.136Z",
+  "last_updated": "22 Nov 2026, 09:00:26 PM BST",
+  "last_updated_iso": "2026-11-22T15:00:26.757Z",
   "total_events": 240,
-  "live_match": 20,
+  "live_match": 21,
   "events": [
     {
       "id": "2803",
@@ -405,6 +405,20 @@
           "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "DAZN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhqcelugnp/out/v1/89d3d1dbde1e441cb379751432bc1688/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "fa3ffd09de83afc48fbe36b18d6dfd7e:9710da0f81d23a80c483ca133ee3074d"
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/7617d0d0-4bc2-4de7-a350-4df2209730e3.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -463,6 +477,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "PEACOCK ES FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/so7lluhsj7/out/v1/f912950b3bac41afbc1f7a73e7505a77/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "bb2ec4f8284af42054a53b6866602904:1b690d7a8f93757f32273dfd14ff44c7"
+        },
+        {
+          "name": "DAZN DE FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v6kda6u1j5/out/v1/68192f286df44105a49ac8effb9ee9c3/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "c218e76a0722e3d206b8130fdd433406:3bbeed52573d04bc4e58499d0c463a38"
         }
       ],
       "status": "LIVE"
@@ -1296,6 +1324,43 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001795353923-0-0-87adf9ffa99d02d6d69faf03acfb0839",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3165",
+      "date": "22/11/2026",
+      "time": "9:30 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Argentina U17",
+      "team2": "Mozambique U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4819/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1126751/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "TUDN MEXICO FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "name": "CANAL5 MX+ FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "name": "hd quality",
+          "url": "https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=6d7d62e964889cc36dcdf7a0ca5d6931&wsABSTime=1795400357",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -4077,21 +4142,6 @@
       "team2": "Mozambique U17",
       "logo1": "https://img.sofascore.com/api/v1/team/4757/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4783/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3165",
-      "date": "22/11/2026",
-      "time": "11:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Argentina U17",
-      "team2": "Uganda U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4819/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4726/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
