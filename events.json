@@ -1,8 +1,8 @@
 {
-  "last_updated": "24 Nov 2026, 01:50:28 AM BST",
-  "last_updated_iso": "2026-11-23T19:50:28.391Z",
+  "last_updated": "24 Nov 2026, 02:00:29 AM BST",
+  "last_updated_iso": "2026-11-23T20:00:29.131Z",
   "total_events": 176,
-  "live_match": 7,
+  "live_match": 8,
   "events": [
     {
       "id": "2981",
@@ -332,6 +332,64 @@
       "status": "LIVE"
     },
     {
+      "id": "3003",
+      "date": "24/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | LaLiga",
+      "team1": "Levante",
+      "team2": "Elche",
+      "logo1": "https://img.sofascore.com/api/v1/team/2849/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2846/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Tapmad - (bd)",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=12ddd3afa89a52e24fbe297fe087cdc2&wsABSTime=1795504934",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795461741-0-0-7faf9f46e97b3c831d8ef8019d67176d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1795444629-0-0-cf3ab05848a39e2248007991d38abaab",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3004",
       "date": "24/11/2026",
       "time": "1:30 AM",
@@ -589,21 +647,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/33001/image",
       "logo2": "https://img.sofascore.com/api/v1/team/5991/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3003",
-      "date": "24/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | LaLiga",
-      "team1": "Levante",
-      "team2": "Elche",
-      "logo1": "https://img.sofascore.com/api/v1/team/2849/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2846/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
       "isHot": false,
       "visibility": "public",
       "streams": [],
