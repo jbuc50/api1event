@@ -1,8 +1,8 @@
 {
-  "last_updated": "23 Nov 2026, 09:20:21 PM BST",
-  "last_updated_iso": "2026-11-23T15:20:21.606Z",
+  "last_updated": "23 Nov 2026, 09:30:23 PM BST",
+  "last_updated_iso": "2026-11-23T15:30:23.949Z",
   "total_events": 190,
-  "live_match": 8,
+  "live_match": 9,
   "events": [
     {
       "id": "2963",
@@ -389,6 +389,57 @@
         {
           "name": "Server - 5",
           "url": "https://playback.livetl004.com/live/6a439a7fb89dded67b208b87.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3172",
+      "date": "23/11/2026",
+      "time": "9:30 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Mali U17",
+      "team2": "Belgium U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4831/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4717/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795440142-0-0-8df18a261663dc50a2c334e6359a2584",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1795444809-0-0-cd0cd510cc60773cffdd2fe44a33229c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2a534f3941ab6e9fd09b43bb58b550b2&txTime=6b047e39",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel19.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -2701,21 +2752,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3172",
-      "date": "23/11/2026",
-      "time": "9:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Mali U17",
-      "team2": "Belgium U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4831/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4717/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
