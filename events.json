@@ -1,8 +1,8 @@
 {
-  "last_updated": "24 Nov 2026, 02:30:23 AM BST",
-  "last_updated_iso": "2026-11-23T20:30:23.703Z",
-  "total_events": 176,
-  "live_match": 8,
+  "last_updated": "24 Nov 2026, 02:40:17 AM BST",
+  "last_updated_iso": "2026-11-23T20:40:17.613Z",
+  "total_events": 173,
+  "live_match": 9,
   "events": [
     {
       "id": "2981",
@@ -100,43 +100,29 @@
       "status": "LIVE"
     },
     {
-      "id": "2985",
+      "id": "2996",
       "date": "24/11/2026",
-      "time": "12:15 AM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Al Ittihad",
-      "team2": "Pakhtakor",
-      "logo1": "https://img.sofascore.com/api/v1/team/34315/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34310/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "time": "4:30 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "Internacional",
+      "team2": "Vitoria",
+      "logo1": "https://img.sofascore.com/api/v1/team/1966/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1962/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
           "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel16.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795439957-0-0-afc30768dbb2f4aa34b073bda4f380da",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1795444689-0-0-3b44e5f30dcd23d96db68639ae45af80",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8",
-          "referer": "",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795465318-0-0-dd9761408ae9ebe59836d38dad940c87",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -144,29 +130,29 @@
       "status": "LIVE"
     },
     {
-      "id": "2986",
+      "id": "2997",
       "date": "24/11/2026",
-      "time": "12:15 AM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Quwa Al Jawiya",
-      "team2": "Al Gharafa",
-      "logo1": "https://img.sofascore.com/api/v1/team/213877/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34312/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "time": "5:00 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "Botafogo",
+      "team2": "São Paulo",
+      "logo1": "https://img.sofascore.com/api/v1/team/1958/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1981/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
           "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel24.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel28.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001795439964-0-0-ae0f03a43eaf70de3b3e1ce81661de76",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795465212-0-0-3809a2ed9ec66969c61e89cf3054c27a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -325,6 +311,29 @@
           "name": "Server - 9",
           "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1795444629-0-0-5b1c3f2691134edfb0a7084ed23e855a",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3001",
+      "date": "24/11/2026",
+      "time": "3:00 AM",
+      "league": "Football | Copa de Primera",
+      "team1": "2 de Mayo",
+      "team2": "Sp. San Lorenzo",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
+      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=b8b029f4f5969114757de844d9d9a26e&wsABSTime=1795508691",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -578,36 +587,6 @@
       "status": "ENDED"
     },
     {
-      "id": "2996",
-      "date": "24/11/2026",
-      "time": "4:30 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Internacional",
-      "team2": "Vitoria",
-      "logo1": "https://img.sofascore.com/api/v1/team/1966/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1962/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2997",
-      "date": "24/11/2026",
-      "time": "5:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Botafogo",
-      "team2": "São Paulo",
-      "logo1": "https://img.sofascore.com/api/v1/team/1958/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1981/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "2998",
       "date": "24/11/2026",
       "time": "6:00 AM",
@@ -617,36 +596,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/1968/image",
       "logo2": "https://img.sofascore.com/api/v1/team/5926/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3001",
-      "date": "24/11/2026",
-      "time": "3:00 AM",
-      "league": "Football | Copa de Primera",
-      "team1": "2 de Mayo",
-      "team2": "Sp. San Lorenzo",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
-      "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3002",
-      "date": "24/11/2026",
-      "time": "5:15 AM",
-      "league": "Football | Copa de Primera",
-      "team1": "Club Nacional",
-      "team2": "Cerro Porteño",
-      "logo1": "https://img.sofascore.com/api/v1/team/33001/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5991/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
