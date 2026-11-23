@@ -1,8 +1,8 @@
 {
-  "last_updated": "24 Nov 2026, 02:40:17 AM BST",
-  "last_updated_iso": "2026-11-23T20:40:17.613Z",
+  "last_updated": "24 Nov 2026, 02:50:18 AM BST",
+  "last_updated_iso": "2026-11-23T20:50:18.240Z",
   "total_events": 173,
-  "live_match": 9,
+  "live_match": 11,
   "events": [
     {
       "id": "2981",
@@ -153,6 +153,36 @@
           "name": "Server - 2",
           "url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795465212-0-0-3809a2ed9ec66969c61e89cf3054c27a",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2998",
+      "date": "24/11/2026",
+      "time": "6:00 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "Santos",
+      "team2": "Gremio",
+      "logo1": "https://img.sofascore.com/api/v1/team/1968/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/5926/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795465482-0-0-9c044ae2cdd04ae9104df10ea96bcb44",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -336,6 +366,13 @@
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "http://193.47.62.44/hls/DYYY.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -415,6 +452,36 @@
           "name": "Server - 1",
           "url": "https://live2.jorvakstreamcache.com/live/channel19.flv",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3005",
+      "date": "24/11/2026",
+      "time": "7:00 AM",
+      "league": "Football | MLS",
+      "team1": "St. Louis City",
+      "team2": "Los Angeles FC",
+      "logo1": "https://img.sofascore.com/api/v1/team/407803/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274650/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795465505-0-0-ed7dc727ec18b0e3ec20557c7e2428e7",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -581,36 +648,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/71044/image",
       "logo2": "https://img.sofascore.com/api/v1/team/61532/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2998",
-      "date": "24/11/2026",
-      "time": "6:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Santos",
-      "team2": "Gremio",
-      "logo1": "https://img.sofascore.com/api/v1/team/1968/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5926/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3005",
-      "date": "24/11/2026",
-      "time": "7:00 AM",
-      "league": "Football | MLS",
-      "team1": "St. Louis City",
-      "team2": "Los Angeles FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/407803/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274650/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
       "streams": [],
