@@ -1,8 +1,8 @@
 {
-  "last_updated": "23 Nov 2026, 03:30:27 PM BST",
-  "last_updated_iso": "2026-11-23T09:30:27.858Z",
+  "last_updated": "23 Nov 2026, 03:40:21 PM BST",
+  "last_updated_iso": "2026-11-23T09:40:21.278Z",
   "total_events": 193,
-  "live_match": 2,
+  "live_match": 3,
   "events": [
     {
       "id": "2981",
@@ -130,6 +130,43 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3136",
+      "date": "23/11/2026",
+      "time": "4:00 PM",
+      "league": "Cricket | ACC Emerging Teams Asia Cup",
+      "team1": "Sri Lanka A",
+      "team2": "Bangladesh A",
+      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
+      "leagueLogo": "",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795468884~acl=/*~id=86279924503218796704553197637627~hmac=d36f425cb9289b87393c274eca4572ea25d06883243219a1f8710f42f9882331",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MWY1ZmNiMWVlMGViY2RmODA3ZDQ4MDc3NjdlZTY2YTA6ZGFjN2VlOGM5OTliOTUxNmEwNGYwYzBiZGQzYWVmMzQ="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "MWY1ZmNiMWVlMGViY2RmODA3ZDQ4MDc3NjdlZTY2YTA6ZGFjN2VlOGM5OTliOTUxNmEwNGYwYzBiZGQzYWVmMzQ="
         }
       ],
       "status": "LIVE"
@@ -2349,21 +2386,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274885/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3136",
-      "date": "23/11/2026",
-      "time": "4:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Sri Lanka A",
-      "team2": "Bangladesh A",
-      "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
       "streams": [],
