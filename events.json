@@ -1,8 +1,8 @@
 {
-  "last_updated": "23 Nov 2026, 08:20:21 PM BST",
-  "last_updated_iso": "2026-11-23T14:20:21.243Z",
+  "last_updated": "23 Nov 2026, 08:30:25 PM BST",
+  "last_updated_iso": "2026-11-23T14:30:25.317Z",
   "total_events": 192,
-  "live_match": 9,
+  "live_match": 10,
   "events": [
     {
       "id": "2963",
@@ -468,6 +468,64 @@
         {
           "name": "Server - 5",
           "url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3171",
+      "date": "23/11/2026",
+      "time": "9:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Morocco U17",
+      "team2": "China U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4778/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4755/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "TUDN MEXICO FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795440140-0-0-f59704b649d9fb794f00675273df0984",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1795441569-0-0-722448ee3c420724db1977b77209907d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl004.com/live/6a439a7fb89dded67b208b87.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -2780,21 +2838,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3171",
-      "date": "23/11/2026",
-      "time": "9:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Morocco U17",
-      "team2": "China U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4778/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4755/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
