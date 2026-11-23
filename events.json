@@ -1,9 +1,32 @@
 {
-  "last_updated": "23 Nov 2026, 01:30:22 PM BST",
-  "last_updated_iso": "2026-11-23T07:30:22.251Z",
+  "last_updated": "23 Nov 2026, 01:40:20 PM BST",
+  "last_updated_iso": "2026-11-23T07:40:20.162Z",
   "total_events": 193,
-  "live_match": 1,
+  "live_match": 2,
   "events": [
+    {
+      "id": "2981",
+      "date": "23/11/2026",
+      "time": "2:00 PM",
+      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 1",
+      "team1": "South Africa",
+      "team2": "Bangladesh",
+      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "3135",
       "date": "23/11/2026",
@@ -139,21 +162,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3086/image",
       "logo2": "https://img.sofascore.com/api/v1/team/77629/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2981",
-      "date": "23/11/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 1",
-      "team1": "South Africa",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
