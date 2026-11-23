@@ -1,8 +1,8 @@
 {
-  "last_updated": "23 Nov 2026, 08:10:28 PM BST",
-  "last_updated_iso": "2026-11-23T14:10:28.273Z",
+  "last_updated": "23 Nov 2026, 08:20:21 PM BST",
+  "last_updated_iso": "2026-11-23T14:20:21.243Z",
   "total_events": 192,
-  "live_match": 7,
+  "live_match": 9,
   "events": [
     {
       "id": "2963",
@@ -399,6 +399,108 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3170",
+      "date": "23/11/2026",
+      "time": "8:30 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Italy U17",
+      "team2": "Ivory Coast U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4707/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4768/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "FOX2 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "name": "D SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "name": "TSN3 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795440110-0-0-739187a916c682b525408abd21640d90",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=1a886613816668387f677003554ab6c4&txTime=6b0440d1",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel21.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3201",
+      "date": "23/11/2026",
+      "time": "8:30 PM",
+      "league": "Cricket | ILT20 2026",
+      "team1": "Sharjah Warriorz",
+      "team2": "Desert Vipers",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/M7.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/M2.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcjujmrzz8/out/v1/96349312752b430f8b8b3733b0841b41/cenc.mpd",
+          "referer": "64dc1d4bb91d3450b9d4ae4a0726d637:ce8b3415503515323800502c4cd46037",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjRkYzFkNGJiOTFkMzQ1MGI5ZDRhZTRhMDcyNmQ2Mzc6Y2U4YjM0MTU1MDM1MTUzMjM4MDA1MDJjNGNkNDYwMzc="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcjujmrzz8/out/v1/96349312752b430f8b8b3733b0841b41/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NjRkYzFkNGJiOTFkMzQ1MGI5ZDRhZTRhMDcyNmQ2Mzc6Y2U4YjM0MTU1MDM1MTUzMjM4MDA1MDJjNGNkNDYwMzc="
         }
       ],
       "status": "LIVE"
@@ -2684,21 +2786,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3170",
-      "date": "23/11/2026",
-      "time": "8:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Italy U17",
-      "team2": "Ivory Coast U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4707/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4768/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3171",
       "date": "23/11/2026",
       "time": "9:00 PM",
@@ -3098,21 +3185,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/4715/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4824/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3201",
-      "date": "23/11/2026",
-      "time": "8:30 PM",
-      "league": "Cricket | ILT20 2026",
-      "team1": "Sharjah Warriorz",
-      "team2": "Desert Vipers",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/M7.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/M2.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": [],
