@@ -1,6 +1,6 @@
 {
-  "last_updated": "23 Nov 2026, 11:40:17 AM BST",
-  "last_updated_iso": "2026-11-23T05:40:17.333Z",
+  "last_updated": "23 Nov 2026, 11:50:16 AM BST",
+  "last_updated_iso": "2026-11-23T05:50:16.931Z",
   "total_events": 194,
   "live_match": 2,
   "events": [
@@ -337,6 +337,20 @@
         {
           "name": "sonyliv - aq",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795454934~acl=/*~id=76755225779277299177814812002485~hmac=01f44d32c7a132290a9fb1b19b65b7c4c9f0a76cff1c28f48fb9084734211cbd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "TEN CRICKET hd",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/19.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SONY SPORTS TEN 2 HD",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/13.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
