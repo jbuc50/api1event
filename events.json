@@ -1,8 +1,8 @@
 {
-  "last_updated": "24 Nov 2026, 05:50:17 PM BST",
-  "last_updated_iso": "2026-11-24T11:50:17.544Z",
-  "total_events": 162,
-  "live_match": 6,
+  "last_updated": "24 Nov 2026, 06:00:30 PM BST",
+  "last_updated_iso": "2026-11-24T12:00:30.845Z",
+  "total_events": 161,
+  "live_match": 8,
   "events": [
     {
       "id": "2981",
@@ -207,77 +207,165 @@
       "status": "LIVE"
     },
     {
-      "id": "3007",
+      "id": "2990",
       "date": "24/11/2026",
-      "time": "2:15 PM",
-      "league": "Cricket | AUS vs ENG in AUS, 2026 - 2nd T20I",
-      "team1": "Australia",
-      "team2": "England",
-      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
+      "time": "6:15 PM",
+      "league": "Football | AFC Champions League Elite",
+      "team1": "Ratchaburi FC",
+      "team2": "Johor Darul Ta’zim",
+      "logo1": "https://img.sofascore.com/api/v1/team/85743/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3327/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
-          "name": "Tapmad - (bd)",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
-          "referer": "https://www.tapmad.com/",
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "FANCODE - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "referer": "",
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795519450-0-0-f3bf2afd18c56eddaab98cc29475f802",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+          "drm": ""
         },
         {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "name": "Server - 3",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+          "drm": ""
         },
         {
-          "name": "EURO SPORTS - AQ",
-          "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "name": "Server - 4",
+          "url": "https://live2.zktsva.app/live/432017.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2991",
+      "date": "24/11/2026",
+      "time": "6:15 PM",
+      "league": "Football | AFC Champions League Elite",
+      "team1": "Shanghai Port",
+      "team2": "Buriram United",
+      "logo1": "https://img.sofascore.com/api/v1/team/41537/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/34218/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         },
         {
-          "name": "TNT SPORTS S2 - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795519471-0-0-13167d0ba1b56c31befc51415839aa17",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1795515969-0-0-3bb5afc1077ff1f87c9697e28482ad2d",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+          "drm": ""
         },
         {
-          "name": "WILLOW SPORTS",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1795513689-0-0-ed28514e2f837c505f8b4949ec547de7",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+          "drm": ""
         },
         {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd",
+          "name": "Server - 5",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel11.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NTg4NGYwMjQzOTJhMGFjNTEyZGI0MDBjNDk3OGRiMzc6YTk5YTE1YmEzZTdlMDQ5NGU4NTQ0YjFjZDA4ZDlhNzM="
+          "drm": ""
         },
         {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd",
+          "name": "Server - 6",
+          "url": "https://live2.zktsva.app/live/304565.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NTg4NGYwMjQzOTJhMGFjNTEyZGI0MDBjNDk3OGRiMzc6YTk5YTE1YmEzZTdlMDQ5NGU4NTQ0YjFjZDA4ZDlhNzM="
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2992",
+      "date": "24/11/2026",
+      "time": "6:15 PM",
+      "league": "Football | AFC Champions League Elite",
+      "team1": "Công An Hà Nội",
+      "team2": "Vissel Kobe",
+      "logo1": "https://img.sofascore.com/api/v1/team/193616/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3146/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         },
         {
-          "name": "TEN SPORTS - aq",
-          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795519247-0-0-cc3a1985e3c81cd6e844a3655927f29f",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795519248-0-0-a594faffc4f3cbf306959268ab0be086",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1795513629-0-0-e2bb716f4ffbdeb9726916c5ef42a6ed",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795513569-0-0-9f84a4755e5aaf0929013c0daf340c05",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel1.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -447,51 +535,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/656/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2058/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2990",
-      "date": "24/11/2026",
-      "time": "6:15 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Ratchaburi FC",
-      "team2": "Johor Darul Ta’zim",
-      "logo1": "https://img.sofascore.com/api/v1/team/85743/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3327/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2991",
-      "date": "24/11/2026",
-      "time": "6:15 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Shanghai Port",
-      "team2": "Buriram United",
-      "logo1": "https://img.sofascore.com/api/v1/team/41537/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34218/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2992",
-      "date": "24/11/2026",
-      "time": "6:15 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Công An Hà Nội",
-      "team2": "Vissel Kobe",
-      "logo1": "https://img.sofascore.com/api/v1/team/193616/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3146/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
       "streams": [],
