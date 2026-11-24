@@ -1,8 +1,8 @@
 {
-  "last_updated": "25 Nov 2026, 12:40:18 AM BST",
-  "last_updated_iso": "2026-11-24T18:40:18.973Z",
+  "last_updated": "25 Nov 2026, 12:50:17 AM BST",
+  "last_updated_iso": "2026-11-24T18:50:17.817Z",
   "total_events": 141,
-  "live_match": 4,
+  "live_match": 11,
   "events": [
     {
       "id": "2981",
@@ -512,6 +512,188 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "hd quality",
+          "url": "https://www.rtmpcdn.com/live/1e42b8ef5bd4a55a259f0262e0a09a69550a1527579db599e51d398283128c9e.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3029",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | England Championship",
+      "team1": "Sheff Utd",
+      "team2": "Southampton",
+      "logo1": "https://img.sofascore.com/api/v1/team/15/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/45/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795544686-0-0-63036c68b7f9eefd7d5bb77e23f5f202",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3030",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | England Championship",
+      "team1": "Portsmouth",
+      "team2": "West Ham",
+      "logo1": "https://img.sofascore.com/api/v1/team/2/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/37/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795544651-0-0-601f37aa0c381bdef82c6cba6650fb90",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3031",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | England Championship",
+      "team1": "Norwich",
+      "team2": "QPR",
+      "logo1": "https://img.sofascore.com/api/v1/team/263/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=c06b5c828f890313f4c380165f95b271&wsABSTime=1795587772",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3032",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | England Championship",
+      "team1": "Middlesbrough",
+      "team2": "Swansea",
+      "logo1": "https://img.sofascore.com/api/v1/team/36/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/74/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=d380711629e55a6e4ba07f1d51151fcd&wsABSTime=1795587747",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3033",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | England Championship",
+      "team1": "Charlton",
+      "team2": "Lincoln",
+      "logo1": "https://img.sofascore.com/api/v1/team/47/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/92/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=cd2e9b8ddd0f2e3ad36916639e529ea3&wsABSTime=1795587618",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3034",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | England Championship",
+      "team1": "Cardiff",
+      "team2": "Preston",
+      "logo1": "https://img.sofascore.com/api/v1/team/61/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/21/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=ff25806cf249f2716409f65f03d4338c&wsABSTime=1795587607",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3035",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | England Championship",
+      "team1": "Bristol City",
+      "team2": "Wrexham",
+      "logo1": "https://img.sofascore.com/api/v1/team/58/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/64/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=8768796f4b4acd7bed5fc61cd05621fd&wsABSTime=1795587603",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel25/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -811,111 +993,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/5250/image",
       "logo2": "https://img.sofascore.com/api/v1/team/39723/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3029",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | England Championship",
-      "team1": "Sheff Utd",
-      "team2": "Southampton",
-      "logo1": "https://img.sofascore.com/api/v1/team/15/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/45/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3030",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | England Championship",
-      "team1": "Portsmouth",
-      "team2": "West Ham",
-      "logo1": "https://img.sofascore.com/api/v1/team/2/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/37/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3031",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | England Championship",
-      "team1": "Norwich",
-      "team2": "QPR",
-      "logo1": "https://img.sofascore.com/api/v1/team/263/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3032",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | England Championship",
-      "team1": "Middlesbrough",
-      "team2": "Swansea",
-      "logo1": "https://img.sofascore.com/api/v1/team/36/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/74/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3033",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | England Championship",
-      "team1": "Charlton",
-      "team2": "Lincoln",
-      "logo1": "https://img.sofascore.com/api/v1/team/47/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/92/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3034",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | England Championship",
-      "team1": "Cardiff",
-      "team2": "Preston",
-      "logo1": "https://img.sofascore.com/api/v1/team/61/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/21/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3035",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | England Championship",
-      "team1": "Bristol City",
-      "team2": "Wrexham",
-      "logo1": "https://img.sofascore.com/api/v1/team/58/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/64/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
       "streams": [],
