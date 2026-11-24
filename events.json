@@ -1,8 +1,8 @@
 {
-  "last_updated": "24 Nov 2026, 03:50:17 PM BST",
-  "last_updated_iso": "2026-11-24T09:50:17.270Z",
-  "total_events": 163,
-  "live_match": 5,
+  "last_updated": "24 Nov 2026, 04:00:28 PM BST",
+  "last_updated_iso": "2026-11-24T10:00:28.529Z",
+  "total_events": 162,
+  "live_match": 6,
   "events": [
     {
       "id": "2981",
@@ -105,57 +105,94 @@
       "status": "LIVE"
     },
     {
-      "id": "2987",
+      "id": "2988",
       "date": "24/11/2026",
-      "time": "1:45 PM",
+      "time": "4:00 PM",
       "league": "Football | AFC Champions League Elite",
-      "team1": "Newcastle Jets",
-      "team2": "Kashiwa Reysol",
-      "logo1": "https://img.sofascore.com/api/v1/team/2934/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3140/image",
+      "team1": "Kyoto",
+      "team2": "Pohang Steelers",
+      "logo1": "https://img.sofascore.com/api/v1/team/3149/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/7650/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
           "name": "Server - 1",
-          "url": "https://live2.jorvakstreamcache.com/live/channel5.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795504999-0-0-86919ae306c5641044a2a370c09adc17",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795512153-0-0-fd2c71f8528ed39b7e0dcc5604ebc98b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795490109-0-0-fe633574ab603634945abb70e4046c2b",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795513449-0-0-e1b8770eef3d254f11a15eba87ccaae3",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1795490049-0-0-9ef2459639aa2377cc72fcf3942d8f02",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel6.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2989",
+      "date": "24/11/2026",
+      "time": "4:00 PM",
+      "league": "Football | AFC Champions League Elite",
+      "team1": "Daejeon Citizen",
+      "team2": "Beijing Guoan",
+      "logo1": "https://img.sofascore.com/api/v1/team/7645/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3376/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
         {
           "name": "Tapmad - (bd)",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001795512086-0-0-314dec4a5a681d6d5267b6117b783115",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.zktsva.app/live/301238.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -389,36 +426,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/656/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2058/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2988",
-      "date": "24/11/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Kyoto",
-      "team2": "Pohang Steelers",
-      "logo1": "https://img.sofascore.com/api/v1/team/3149/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7650/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2989",
-      "date": "24/11/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Daejeon Citizen",
-      "team2": "Beijing Guoan",
-      "logo1": "https://img.sofascore.com/api/v1/team/7645/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3376/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
       "streams": [],
