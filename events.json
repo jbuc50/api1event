@@ -1,6 +1,6 @@
 {
-  "last_updated": "24 Nov 2026, 02:00:36 PM BST",
-  "last_updated_iso": "2026-11-24T08:00:36.407Z",
+  "last_updated": "24 Nov 2026, 02:10:17 PM BST",
+  "last_updated_iso": "2026-11-24T08:10:17.895Z",
   "total_events": 163,
   "live_match": 4,
   "events": [
@@ -195,6 +195,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NTg4NGYwMjQzOTJhMGFjNTEyZGI0MDBjNDk3OGRiMzc6YTk5YTE1YmEzZTdlMDQ5NGU4NTQ0YjFjZDA4ZDlhNzM="
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmkdqjrm0v/out/v1/f18ae7e0b6aa4945be780be08819f37f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "NTg4NGYwMjQzOTJhMGFjNTEyZGI0MDBjNDk3OGRiMzc6YTk5YTE1YmEzZTdlMDQ5NGU4NTQ0YjFjZDA4ZDlhNzM="
         }
       ],
       "status": "LIVE"
