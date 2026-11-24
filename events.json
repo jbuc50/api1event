@@ -1,8 +1,8 @@
 {
-  "last_updated": "25 Nov 2026, 01:10:19 AM BST",
-  "last_updated_iso": "2026-11-24T19:10:19.064Z",
+  "last_updated": "25 Nov 2026, 01:20:32 AM BST",
+  "last_updated_iso": "2026-11-24T19:20:32.526Z",
   "total_events": 141,
-  "live_match": 19,
+  "live_match": 22,
   "events": [
     {
       "id": "2981",
@@ -1042,6 +1042,43 @@
       "status": "LIVE"
     },
     {
+      "id": "3027",
+      "date": "25/11/2026",
+      "time": "3:00 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "Chapecoense",
+      "team2": "Palmeiras",
+      "logo1": "https://img.sofascore.com/api/v1/team/21845/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1963/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "PREMIER SPORTS - AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795544419-0-0-c3ea4cafef627c2f4e51110bed1d3865",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3029",
       "date": "25/11/2026",
       "time": "1:45 AM",
@@ -1254,6 +1291,52 @@
       "status": "LIVE"
     },
     {
+      "id": "3037",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | League One",
+      "team1": "Bromley",
+      "team2": "Wycombe",
+      "logo1": "https://img.sofascore.com/api/v1/team/180/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/62/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.41/hls/FUUU.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3039",
+      "date": "25/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | League One",
+      "team1": "Stevenage",
+      "team2": "Sheffield Wed",
+      "logo1": "https://img.sofascore.com/api/v1/team/133/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/12/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "http://193.47.62.41/hls/FUUUA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3015",
       "date": "25/11/2026",
       "time": "11:45 PM",
@@ -1419,21 +1502,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3027",
-      "date": "25/11/2026",
-      "time": "3:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Chapecoense",
-      "team2": "Palmeiras",
-      "logo1": "https://img.sofascore.com/api/v1/team/21845/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1963/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3028",
       "date": "25/11/2026",
       "time": "11:00 PM",
@@ -1449,21 +1517,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3037",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | League One",
-      "team1": "Bromley",
-      "team2": "Wycombe",
-      "logo1": "https://img.sofascore.com/api/v1/team/180/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/62/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3038",
       "date": "25/11/2026",
       "time": "1:45 AM",
@@ -1472,21 +1525,6 @@
       "team2": "Leicester City",
       "logo1": "https://img.sofascore.com/api/v1/team/67/image",
       "logo2": "https://img.sofascore.com/api/v1/team/31/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3039",
-      "date": "25/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | League One",
-      "team1": "Stevenage",
-      "team2": "Sheffield Wed",
-      "logo1": "https://img.sofascore.com/api/v1/team/133/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/12/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
       "isHot": false,
       "visibility": "public",
