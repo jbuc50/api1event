@@ -1,7 +1,7 @@
 {
-  "last_updated": "24 Nov 2026, 06:40:22 PM BST",
-  "last_updated_iso": "2026-11-24T12:40:22.755Z",
-  "total_events": 159,
+  "last_updated": "24 Nov 2026, 06:50:19 PM BST",
+  "last_updated_iso": "2026-11-24T12:50:19.514Z",
+  "total_events": 158,
   "live_match": 8,
   "events": [
     {
@@ -144,6 +144,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - aq",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -200,6 +207,13 @@
           "name": "Server - 6",
           "url": "https://live2.zktsva.app/live/304565.m3u8",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -279,106 +293,6 @@
       "status": "LIVE"
     },
     {
-      "id": "3137",
-      "date": "24/11/2026",
-      "time": "12:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "India A",
-      "team2": "United Arab Emirates",
-      "logo1": "https://img.sofascore.com/api/v1/team/187765/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4727/image",
-      "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "sonyliv - (eng)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "sonyliv - (hin)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "sonyliv - (tam)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "sonyliv - (tel)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "sonyliv - (kan)",
-          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "TEN CRICKET hd",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/19.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SONY SPORTS TEN 1 HD",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SONY SPORTS TEN 3 HD",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/14.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NTMxNDk3ZGU0Nzk0NGFkZTU0MTBmZTU4NTI5MDU2OTg6NTc0NTQ3ZmRhZTkyNzkzZjQ2MzBiNjVkYWRlMDE3NjE="
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/po7s7fvgjq/out/v1/5c412831b960410cb880428166b74dee/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "NTMxNDk3ZGU0Nzk0NGFkZTU0MTBmZTU4NTI5MDU2OTg6NTc0NTQ3ZmRhZTkyNzkzZjQ2MzBiNjVkYWRlMDE3NjE="
-        },
-        {
-          "name": "ptv - aq",
-          "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow sports",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "3138",
       "date": "24/11/2026",
       "time": "4:00 PM",
@@ -443,7 +357,7 @@
           "drm": ""
         },
         {
-          "name": "Server - 3",
+          "name": "Server - 7",
           "url": "https://live200.kravonstreamdelivery.com/live/channel23.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
@@ -452,6 +366,20 @@
         {
           "name": "Server - 4",
           "url": "https://live2.zktsva.app/live/303098.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1795526109-0-0-544b5703fcfa9243ac54abec716e04bd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1795526109-0-0-30c06b031268d0483a6fa573d88b92b6",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -510,6 +438,64 @@
         {
           "name": "Server - 6",
           "url": "https://live200.kravonstreamdelivery.com/live/channel13.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3176",
+      "date": "24/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Japan U17",
+      "team2": "Serbia U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4770/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6355/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "VIX TN",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel22.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795522985-0-0-e9a787cfe82db86e67884e9db8d57f23",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1795514709-0-0-c6aba9d739f6b5a2f06ba88e273b6ef2",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel22.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live2.zktsva.app/live/289650.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -2387,21 +2373,6 @@
       "logo1": "",
       "logo2": "",
       "leagueLogo": "",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3176",
-      "date": "24/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Japan U17",
-      "team2": "Serbia U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4770/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6355/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
