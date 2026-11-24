@@ -1,8 +1,8 @@
 {
-  "last_updated": "24 Nov 2026, 03:40:19 PM BST",
-  "last_updated_iso": "2026-11-24T09:40:19.077Z",
+  "last_updated": "24 Nov 2026, 03:50:17 PM BST",
+  "last_updated_iso": "2026-11-24T09:50:17.270Z",
   "total_events": 163,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
     {
       "id": "2981",
@@ -337,6 +337,29 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3138",
+      "date": "24/11/2026",
+      "time": "4:00 PM",
+      "league": "Cricket | ACC Emerging Teams Asia Cup",
+      "team1": "Pakistan A",
+      "team2": "Nepal",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187772/image",
+      "leagueLogo": "",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "sonyliv - aq",
+          "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795555554~acl=/*~id=76403202165520569836578998371927~hmac=17acd14f3505e58b7359fb6fb8b258a8bbe5517eba4abdb627980f1f6b8032ee",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -2241,21 +2264,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/274890/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274885/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3138",
-      "date": "24/11/2026",
-      "time": "4:00 PM",
-      "league": "Cricket | ACC Emerging Teams Asia Cup",
-      "team1": "Pakistan A",
-      "team2": "Nepal",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187772/image",
-      "leagueLogo": "",
       "isHot": false,
       "visibility": "public",
       "streams": [],
