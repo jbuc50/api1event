@@ -1,7 +1,7 @@
 {
-  "last_updated": "24 Nov 2026, 09:50:31 PM BST",
-  "last_updated_iso": "2026-11-24T15:50:31.349Z",
-  "total_events": 150,
+  "last_updated": "24 Nov 2026, 10:00:30 PM BST",
+  "last_updated_iso": "2026-11-24T16:00:30.151Z",
+  "total_events": 149,
   "live_match": 8,
   "events": [
     {
@@ -163,43 +163,43 @@
       "status": "LIVE"
     },
     {
-      "id": "2994",
+      "id": "2995",
       "date": "24/11/2026",
-      "time": "7:45 PM",
+      "time": "10:00 PM",
       "league": "Football | AFC Champions League Two",
-      "team1": "East Bengal",
-      "team2": "Al Hussein",
-      "logo1": "https://img.sofascore.com/api/v1/team/40655/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/117204/image",
+      "team1": "Al Seeb SC",
+      "team2": "Al Shorta Baghdad",
+      "logo1": "https://img.sofascore.com/api/v1/team/71044/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/61532/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
+          "name": "Tapmad - Aq",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
           "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel16.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "url": "https://live2.jorvakstreamcache.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795522888-0-0-ef6d8c9db9117560d23ac37d43b576f4",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795533593-0-0-2a9af9931312bab01915583ab3cf90c2",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 3",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel11.m3u8",
           "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - Aq",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -514,21 +514,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/656/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2058/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2995",
-      "date": "24/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Al Seeb SC",
-      "team2": "Al Shorta Baghdad",
-      "logo1": "https://img.sofascore.com/api/v1/team/71044/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/61532/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
       "isHot": false,
       "visibility": "public",
       "streams": [],
