@@ -1,8 +1,8 @@
 {
-  "last_updated": "25 Nov 2026, 12:50:17 AM BST",
-  "last_updated_iso": "2026-11-24T18:50:17.817Z",
+  "last_updated": "25 Nov 2026, 01:00:28 AM BST",
+  "last_updated_iso": "2026-11-24T19:00:28.174Z",
   "total_events": 141,
-  "live_match": 11,
+  "live_match": 14,
   "events": [
     {
       "id": "2981",
@@ -396,6 +396,222 @@
       "status": "LIVE"
     },
     {
+      "id": "3008",
+      "date": "25/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Champions League",
+      "team1": "Como",
+      "team2": "AEK Athens FC",
+      "logo1": "https://img.sofascore.com/api/v1/team/2704/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3250/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795544432-0-0-ab41efb4ff3ca7350c07960c99d5fc1d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1795528749-0-0-69ee40351a1c536762795a2a678d4025",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel8.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3009",
+      "date": "25/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Champions League",
+      "team1": "Feyenoord",
+      "team2": "FC Porto",
+      "logo1": "https://img.sofascore.com/api/v1/team/2959/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3002/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "CBS SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=46bba9b06eabedcf9ca501af6fb7eb0d&wsABSTime=1795587658",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795544464-0-0-5a7141e376f2cf0e5f532cfa12031477",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel22.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001795544465-0-0-5ccd9622a7cffb656bc4540d33737078",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=0bebda32dff0daeb7593fa038c00c45e&txTime=6b05de7d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel22.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://playback.livetl004.com/live/6a9a5525864ea536c2577392.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3010",
+      "date": "25/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Champions League",
+      "team1": "Arsenal",
+      "team2": "Borussia Dortmund",
+      "logo1": "https://img.sofascore.com/api/v1/team/42/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2673/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "QAZSPORT - AQ",
+          "url": "http://195.201.243.254/stream10/index.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795544370-0-0-87032450f54adade669ab061b2ce256c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=46ce3b5858bc0198332d173a3532c31b&wsABSTime=1795587570",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795544371-0-0-519f0a0b1aba26f24d4859be5782eeee",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795544372-0-0-da409479a4218a65dfaa7b8c4f8ce0cd",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=588514354f3c1c2e6e56a2e25b2385fd&txTime=6b05de7d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 8",
+          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=d5e71b9e3ae273c07d07a42c26f2bd03&txTime=6b05de7d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 9",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel1.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 10",
+          "url": "https://playback.livetl004.com/live/6a5b13ceb36a14387baeddaa.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3017",
       "date": "25/11/2026",
       "time": "12:15 AM",
@@ -697,51 +913,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "3008",
-      "date": "25/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Champions League",
-      "team1": "Como",
-      "team2": "AEK Athens FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/2704/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3250/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3009",
-      "date": "25/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Champions League",
-      "team1": "Feyenoord",
-      "team2": "FC Porto",
-      "logo1": "https://img.sofascore.com/api/v1/team/2959/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3002/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3010",
-      "date": "25/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Champions League",
-      "team1": "Arsenal",
-      "team2": "Borussia Dortmund",
-      "logo1": "https://img.sofascore.com/api/v1/team/42/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2673/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
     },
     {
       "id": "3011",
