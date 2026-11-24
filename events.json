@@ -1,8 +1,8 @@
 {
-  "last_updated": "24 Nov 2026, 10:40:18 AM BST",
-  "last_updated_iso": "2026-11-24T04:40:18.088Z",
-  "total_events": 164,
-  "live_match": 2,
+  "last_updated": "24 Nov 2026, 10:50:16 AM BST",
+  "last_updated_iso": "2026-11-24T04:50:16.689Z",
+  "total_events": 163,
+  "live_match": 1,
   "events": [
     {
       "id": "2981",
@@ -65,36 +65,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "ZWY1NzVmOWJiYmM3YmQyNTJlYjYyOTU1M2MwNGI1NzI6MDM2YzNjNjZlNmNiNDg0ZTBjNTdkMzc3NjNmNjViY2E="
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3005",
-      "date": "24/11/2026",
-      "time": "7:00 AM",
-      "league": "Football | MLS",
-      "team1": "St. Louis City",
-      "team2": "Los Angeles FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/407803/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274650/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795465505-0-0-ed7dc727ec18b0e3ec20557c7e2428e7",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ],
       "status": "LIVE"
