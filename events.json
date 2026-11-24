@@ -1,8 +1,8 @@
 {
-  "last_updated": "24 Nov 2026, 09:40:19 PM BST",
-  "last_updated_iso": "2026-11-24T15:40:19.298Z",
+  "last_updated": "24 Nov 2026, 09:50:31 PM BST",
+  "last_updated_iso": "2026-11-24T15:50:31.349Z",
   "total_events": 150,
-  "live_match": 7,
+  "live_match": 8,
   "events": [
     {
       "id": "2981",
@@ -97,6 +97,64 @@
         {
           "name": "A SPORTS - AQ",
           "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "2993",
+      "date": "24/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | AFC Champions League Elite",
+      "team1": "Shabab Al Ahly",
+      "team2": "Al Qadsiah",
+      "logo1": "https://img.sofascore.com/api/v1/team/264111/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/56027/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live2.jorvakstreamcache.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795533899-0-0-bcd0e64f88051645be538a116f60139d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=d396b73a3176ea0f0a6c5199fff882b0&txTime=6b05de05",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niur.live/live/stream-9912008_lhd.m3u8?txSecret=c531b69ba4be4e2d0e2cd57ff4d298d8&txTime=6b05de15",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel6.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -456,21 +514,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/656/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2058/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "2993",
-      "date": "24/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Shabab Al Ahly",
-      "team2": "Al Qadsiah",
-      "logo1": "https://img.sofascore.com/api/v1/team/264111/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/56027/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
       "streams": [],
