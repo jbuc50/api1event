@@ -1,8 +1,8 @@
 {
-  "last_updated": "25 Nov 2026, 10:20:20 AM BST",
-  "last_updated_iso": "2026-11-25T04:20:20.322Z",
+  "last_updated": "25 Nov 2026, 10:30:22 AM BST",
+  "last_updated_iso": "2026-11-25T04:30:22.850Z",
   "total_events": 118,
-  "live_match": 2,
+  "live_match": 3,
   "events": [
     {
       "id": "2981",
@@ -137,6 +137,29 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3048",
+      "date": "25/11/2026",
+      "time": "10:40 AM",
+      "league": "Cricket | WBBL 2026 - 33rd Match",
+      "team1": "Melbourne Renegades Women",
+      "team2": "Brisbane Heat Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274887/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
       "status": "LIVE"
@@ -406,21 +429,6 @@
       "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1280",
       "logo2": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3048",
-      "date": "25/11/2026",
-      "time": "10:40 AM",
-      "league": "Cricket | WBBL 2026 - 33rd Match",
-      "team1": "Melbourne Renegades Women",
-      "team2": "Brisbane Heat Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274887/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274884/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
