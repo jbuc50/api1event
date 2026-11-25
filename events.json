@@ -1,8 +1,8 @@
 {
-  "last_updated": "25 Nov 2026, 06:00:28 PM BST",
-  "last_updated_iso": "2026-11-25T12:00:28.698Z",
-  "total_events": 115,
-  "live_match": 8,
+  "last_updated": "25 Nov 2026, 06:10:20 PM BST",
+  "last_updated_iso": "2026-11-25T12:10:20.066Z",
+  "total_events": 113,
+  "live_match": 6,
   "events": [
     {
       "id": "2981",
@@ -114,108 +114,6 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3018",
-      "date": "25/11/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Gamba Osaka",
-      "team2": "Thai Port FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/3138/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/40661/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel15.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001795594864-0-0-5babd749ccddbb8982a281e8d6d08b4e",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=be7c825a856de466239d7af12b895d73&txTime=6b06ecb9",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795594089-0-0-c54a52912931af33972fe5f8b32ac2ef",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - Aq",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3019",
-      "date": "25/11/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Kashima Antlers",
-      "team2": "Jeonbuk Hyundai Motors",
-      "logo1": "https://img.sofascore.com/api/v1/team/3134/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6908/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel2.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795594928-0-0-01dc058a870ef92ad4d3e8a027e733fc",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel2.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - Aq",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1804,12 +1702,12 @@
     {
       "id": "3188",
       "date": "25/11/2026",
-      "time": "11:00 PM",
+      "time": "6:30 PM",
       "league": "Football | U17 World Championship",
-      "team1": "Australia U17",
-      "team2": "Uganda U17",
-      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2380",
-      "logo2": "https://img.sofascore.com/api/v1/team/4726/image",
+      "team1": "Uganda U17",
+      "team2": "New Caledonia U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/1077159/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/265146/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
@@ -1819,12 +1717,12 @@
     {
       "id": "3189",
       "date": "25/11/2026",
-      "time": "11:00 PM",
+      "time": "9:30 PM",
       "league": "Football | U17 World Championship",
-      "team1": "Mozambique U17",
-      "team2": "New Caledonia U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4783/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/8045/image",
+      "team1": "Australia U17",
+      "team2": "Mozambique U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/22578/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1126751/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
