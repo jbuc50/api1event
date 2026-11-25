@@ -1,8 +1,8 @@
 {
-  "last_updated": "25 Nov 2026, 06:10:20 PM BST",
-  "last_updated_iso": "2026-11-25T12:10:20.066Z",
+  "last_updated": "25 Nov 2026, 06:20:17 PM BST",
+  "last_updated_iso": "2026-11-25T12:20:17.815Z",
   "total_events": 113,
-  "live_match": 6,
+  "live_match": 7,
   "events": [
     {
       "id": "2981",
@@ -158,6 +158,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -282,6 +289,43 @@
         {
           "name": "Server - 3",
           "url": "https://live200.kravonstreamdelivery.com/live/channel11.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3188",
+      "date": "25/11/2026",
+      "time": "6:30 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Uganda U17",
+      "team2": "New Caledonia U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/1077159/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/265146/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795605930-0-0-55f99a196104e5f17d04d4a83ea3d04d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel28.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -1693,21 +1737,6 @@
       "team2": "Argentina U17",
       "logo1": "https://img.sofascore.com/api/v1/team/4476/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4819/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3188",
-      "date": "25/11/2026",
-      "time": "6:30 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Uganda U17",
-      "team2": "New Caledonia U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/1077159/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/265146/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
       "isHot": false,
       "visibility": "public",
