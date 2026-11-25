@@ -1,8 +1,8 @@
 {
-  "last_updated": "26 Nov 2026, 02:30:24 AM BST",
-  "last_updated_iso": "2026-11-25T20:30:24.761Z",
-  "total_events": 156,
-  "live_match": 15,
+  "last_updated": "26 Nov 2026, 02:40:19 AM BST",
+  "last_updated_iso": "2026-11-25T20:40:19.100Z",
+  "total_events": 154,
+  "live_match": 16,
   "events": [
     {
       "id": "3051",
@@ -726,6 +726,36 @@
       "status": "LIVE"
     },
     {
+      "id": "3066",
+      "date": "26/11/2026",
+      "time": "6:00 AM",
+      "league": "Football | Liga Profesional",
+      "team1": "Boca Juniors",
+      "team2": "Independiente Rivadavia",
+      "logo1": "https://img.sofascore.com/api/v1/team/3202/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/36842/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795638007-0-0-4d0d1540ba98248c7e7a6297aa2acd50",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3074",
       "date": "26/11/2026",
       "time": "5:00 AM",
@@ -1093,21 +1123,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3066",
-      "date": "26/11/2026",
-      "time": "6:00 AM",
-      "league": "Football | Liga Profesional",
-      "team1": "Boca Juniors",
-      "team2": "Independiente Rivadavia",
-      "logo1": "https://img.sofascore.com/api/v1/team/3202/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/36842/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3068",
       "date": "26/11/2026",
       "time": "4:00 PM",
@@ -1387,21 +1402,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/56035/image",
       "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3094",
-      "date": "26/11/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 4",
-      "team1": "South Africa",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -1821,21 +1821,6 @@
       "team2": "India",
       "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3124",
-      "date": "27/11/2026",
-      "time": "2:00 PM",
-      "league": "Cricket | SA vs BAN in SA, 2026 - 2nd Test, Day 5",
-      "team1": "South Africa",
-      "team2": "Bangladesh",
-      "logo1": "https://img.sofascore.com/api/v1/team/187747/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
