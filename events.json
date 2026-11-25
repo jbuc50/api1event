@@ -1,8 +1,8 @@
 {
-  "last_updated": "25 Nov 2026, 01:50:18 PM BST",
-  "last_updated_iso": "2026-11-25T07:50:18.365Z",
+  "last_updated": "25 Nov 2026, 02:00:28 PM BST",
+  "last_updated_iso": "2026-11-25T08:00:28.468Z",
   "total_events": 117,
-  "live_match": 2,
+  "live_match": 3,
   "events": [
     {
       "id": "2981",
@@ -105,6 +105,64 @@
       "status": "LIVE"
     },
     {
+      "id": "3020",
+      "date": "25/11/2026",
+      "time": "1:45 PM",
+      "league": "Football | AFC Champions League Two",
+      "team1": "Melbourne Victory",
+      "team2": "Viettel",
+      "logo1": "https://img.sofascore.com/api/v1/team/5970/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/231270/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795591379-0-0-36d4662b0ee56c22c4ba117d953a40e8",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795588389-0-0-1f657717e8d1e6a7eb9e58d54629a961",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795585449-0-0-aa6126cf79377297c33971e5d7d1c911",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3048",
       "date": "25/11/2026",
       "time": "2:10 PM",
@@ -196,21 +254,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3134/image",
       "logo2": "https://img.sofascore.com/api/v1/team/6908/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3020",
-      "date": "25/11/2026",
-      "time": "1:45 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Melbourne Victory",
-      "team2": "Viettel",
-      "logo1": "https://img.sofascore.com/api/v1/team/5970/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/231270/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
       "isHot": false,
       "visibility": "public",
       "streams": [],
