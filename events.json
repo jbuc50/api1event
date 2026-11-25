@@ -1,8 +1,8 @@
 {
-  "last_updated": "26 Nov 2026, 02:20:28 AM BST",
-  "last_updated_iso": "2026-11-25T20:20:28.189Z",
+  "last_updated": "26 Nov 2026, 02:30:24 AM BST",
+  "last_updated_iso": "2026-11-25T20:30:24.761Z",
   "total_events": 156,
-  "live_match": 14,
+  "live_match": 15,
   "events": [
     {
       "id": "3051",
@@ -726,6 +726,43 @@
       "status": "LIVE"
     },
     {
+      "id": "3074",
+      "date": "26/11/2026",
+      "time": "5:00 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "Atlético-MG",
+      "team2": "Corinthians",
+      "logo1": "https://img.sofascore.com/api/v1/team/1977/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1957/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "primer - aq",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel23.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-23.flv?auth_key=3000001795637986-0-0-76d77e7d6de0baa765dbc718e82b47bd",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3075",
       "date": "26/11/2026",
       "time": "1:45 AM",
@@ -1155,21 +1192,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/40662/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2946/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3074",
-      "date": "26/11/2026",
-      "time": "5:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "Atlético-MG",
-      "team2": "Corinthians",
-      "logo1": "https://img.sofascore.com/api/v1/team/1977/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1957/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
       "isHot": false,
       "visibility": "public",
       "streams": [],
