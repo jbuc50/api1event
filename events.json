@@ -1,61 +1,165 @@
 {
-  "last_updated": "25 Nov 2026, 09:40:30 PM BST",
-  "last_updated_iso": "2026-11-25T15:40:30.856Z",
-  "total_events": 107,
-  "live_match": 9,
+  "last_updated": "25 Nov 2026, 10:10:27 PM BST",
+  "last_updated_iso": "2026-11-25T16:10:27.137Z",
+  "total_events": 106,
+  "live_match": 12,
   "events": [
     {
-      "id": "3022",
+      "id": "3023",
       "date": "25/11/2026",
-      "time": "7:45 PM",
+      "time": "10:00 PM",
       "league": "Football | AFC Champions League Two",
-      "team1": "Nasaf",
-      "team2": "Al Khalidiyah",
-      "logo1": "https://img.sofascore.com/api/v1/team/34017/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/371631/image",
+      "team1": "Kuwait SC",
+      "team2": "Wahda Abu Dhabi",
+      "logo1": "https://img.sofascore.com/api/v1/team/32525/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/264115/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
           "name": "Server - 1",
-          "url": "https://live2.zktsva.app/live/741294.m3u8",
-          "referer": "",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 2",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel12.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795612764-0-0-27503db5e6246a0fe635882f0c8d42c6",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 3",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795609366-0-0-a8794b6aec9581c68a05e8272d78112e",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "url": "https://pull.niur.live/live/stream-9912114_lhd.m3u8?txSecret=1038649020366ed2fafd8eeb3b1e5131&txTime=6b073651",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1795614129-0-0-757829cba7e393a08fb804eac2cf433b",
+          "url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1795616709-0-0-2a8b09aca321dff4df8ca3f4044ccc30",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 5",
-          "url": "https://live200.kravonstreamdelivery.com/live/channel12.m3u8",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3024",
+      "date": "25/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | AFC Champions League Two",
+      "team1": "Al Faisaly",
+      "team2": "Al Rayyan",
+      "logo1": "https://img.sofascore.com/api/v1/team/47482/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/40660/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795612757-0-0-c71b2fb86c8a244a681b01d2489e4d16",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1795616829-0-0-e426d3ee04a67a1ce205a874274ad932",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "Tapmad - Aq",
-          "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
-          "referer": "https://www.tapmad.com/",
+          "name": "Server - 4",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3025",
+      "date": "25/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | AFC Champions League Two",
+      "team1": "Muharraq SC",
+      "team2": "Arkadag",
+      "logo1": "https://img.sofascore.com/api/v1/team/45474/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/469420/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795612765-0-0-baa8edd066960e4ac0e31ba8d379a5df",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3026",
+      "date": "25/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | AFC Champions League Two",
+      "team1": "Al-Jazira",
+      "team2": "Gol Gohar",
+      "logo1": "https://img.sofascore.com/api/v1/team/8090/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/275525/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795612758-0-0-c747a2b9f0ba2ca2953c58d2a88ab8b5",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel19.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -474,66 +578,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/267828/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2817/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3023",
-      "date": "25/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Kuwait SC",
-      "team2": "Wahda Abu Dhabi",
-      "logo1": "https://img.sofascore.com/api/v1/team/32525/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/264115/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3024",
-      "date": "25/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Al Faisaly",
-      "team2": "Al Rayyan",
-      "logo1": "https://img.sofascore.com/api/v1/team/47482/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/40660/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3025",
-      "date": "25/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Muharraq SC",
-      "team2": "Arkadag",
-      "logo1": "https://img.sofascore.com/api/v1/team/45474/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/469420/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3026",
-      "date": "25/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | AFC Champions League Two",
-      "team1": "Al-Jazira",
-      "team2": "Gol Gohar",
-      "logo1": "https://img.sofascore.com/api/v1/team/8090/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/275525/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
       "isHot": false,
       "visibility": "public",
       "streams": [],
