@@ -1,8 +1,8 @@
 {
-  "last_updated": "25 Nov 2026, 02:50:26 PM BST",
-  "last_updated_iso": "2026-11-25T08:50:26.502Z",
+  "last_updated": "25 Nov 2026, 03:00:27 PM BST",
+  "last_updated_iso": "2026-11-25T09:00:27.790Z",
   "total_events": 117,
-  "live_match": 3,
+  "live_match": 5,
   "events": [
     {
       "id": "2981",
@@ -114,6 +114,94 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3018",
+      "date": "25/11/2026",
+      "time": "4:00 PM",
+      "league": "Football | AFC Champions League Elite",
+      "team1": "Gamba Osaka",
+      "team2": "Thai Port FC",
+      "logo1": "https://img.sofascore.com/api/v1/team/3138/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/40661/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001795594864-0-0-5babd749ccddbb8982a281e8d6d08b4e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=be7c825a856de466239d7af12b895d73&txTime=6b06ecb9",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795594089-0-0-c54a52912931af33972fe5f8b32ac2ef",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3019",
+      "date": "25/11/2026",
+      "time": "4:00 PM",
+      "league": "Football | AFC Champions League Elite",
+      "team1": "Kashima Antlers",
+      "team2": "Jeonbuk Hyundai Motors",
+      "logo1": "https://img.sofascore.com/api/v1/team/3134/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6908/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795594928-0-0-01dc058a870ef92ad4d3e8a027e733fc",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel2.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -259,36 +347,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/267828/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2817/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3018",
-      "date": "25/11/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Gamba Osaka",
-      "team2": "Thai Port FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/3138/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/40661/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3019",
-      "date": "25/11/2026",
-      "time": "4:00 PM",
-      "league": "Football | AFC Champions League Elite",
-      "team1": "Kashima Antlers",
-      "team2": "Jeonbuk Hyundai Motors",
-      "logo1": "https://img.sofascore.com/api/v1/team/3134/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6908/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
       "isHot": false,
       "visibility": "public",
       "streams": [],
