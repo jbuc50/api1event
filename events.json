@@ -1,8 +1,8 @@
 {
-  "last_updated": "26 Nov 2026, 12:50:18 AM BST",
-  "last_updated_iso": "2026-11-25T18:50:18.117Z",
+  "last_updated": "26 Nov 2026, 01:00:37 AM BST",
+  "last_updated_iso": "2026-11-25T19:00:37.973Z",
   "total_events": 90,
-  "live_match": 15,
+  "live_match": 17,
   "events": [
     {
       "id": "3015",
@@ -763,6 +763,78 @@
       "status": "LIVE"
     },
     {
+      "id": "3057",
+      "date": "26/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Champions League",
+      "team1": "Inter",
+      "team2": "Stuttgart",
+      "logo1": "https://img.sofascore.com/api/v1/team/2697/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2677/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795630948-0-0-eb1766aed441437b224be319bb82bd61",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=f87db715a3786d62c19e39eb09e5ef45&wsABSTime=1795674149",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795630949-0-0-16a6ce15ce2de72f54174223effeff74",
+          "referer": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795630949-0-0-16a6ce15ce2de72f54174223effeff74",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795621509-0-0-fb0f84763f3838434f4eded215099c7f",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1795625709-0-0-d0e8091f512e6763dff3a427a3384806",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 7",
+          "url": "https://live200.kravonstreamdelivery.com/live/channel6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 8",
+          "url": "https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3067",
       "date": "26/11/2026",
       "time": "12:15 AM",
@@ -897,6 +969,43 @@
       "status": "LIVE"
     },
     {
+      "id": "3078",
+      "date": "26/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | England Championship",
+      "team1": "Stoke City",
+      "team2": "Millwall",
+      "logo1": "https://img.sofascore.com/api/v1/team/29/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/25/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "beIN SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795631132-0-0-77af526fd7686c9877c54882bfdb7703",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3092",
       "date": "26/11/2026",
       "time": "10:40 AM",
@@ -985,21 +1094,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "3057",
-      "date": "26/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Champions League",
-      "team1": "Inter",
-      "team2": "Stuttgart",
-      "logo1": "https://img.sofascore.com/api/v1/team/2697/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2677/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
     },
     {
       "id": "3058",
@@ -1236,21 +1330,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/1977/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1957/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3078",
-      "date": "26/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | England Championship",
-      "team1": "Stoke City",
-      "team2": "Millwall",
-      "logo1": "https://img.sofascore.com/api/v1/team/29/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/25/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
       "isHot": false,
       "visibility": "public",
       "streams": [],
