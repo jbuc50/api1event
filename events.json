@@ -1,9 +1,39 @@
 {
-  "last_updated": "26 Nov 2026, 09:00:32 PM BST",
-  "last_updated_iso": "2026-11-26T15:00:32.359Z",
+  "last_updated": "26 Nov 2026, 09:10:17 PM BST",
+  "last_updated_iso": "2026-11-26T15:10:17.785Z",
   "total_events": 133,
-  "live_match": 11,
+  "live_match": 12,
   "events": [
+    {
+      "id": "3079",
+      "date": "26/11/2026",
+      "time": "9:30 PM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Kairat Almaty",
+      "team2": "Mjällby AIF",
+      "logo1": "https://img.sofascore.com/api/v1/team/5172/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1783/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795699282-0-0-3545e56957d58afaeddcbc72f596d684",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "3089",
       "date": "26/11/2026",
@@ -666,21 +696,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/3245/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2692/image",
       "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3079",
-      "date": "26/11/2026",
-      "time": "9:30 PM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Kairat Almaty",
-      "team2": "Mjällby AIF",
-      "logo1": "https://img.sofascore.com/api/v1/team/5172/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1783/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
       "isHot": false,
       "visibility": "public",
       "streams": [],
