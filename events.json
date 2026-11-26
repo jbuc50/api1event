@@ -1,8 +1,8 @@
 {
-  "last_updated": "27 Nov 2026, 12:40:20 AM BST",
-  "last_updated_iso": "2026-11-26T18:40:20.219Z",
+  "last_updated": "27 Nov 2026, 12:50:22 AM BST",
+  "last_updated_iso": "2026-11-26T18:50:22.556Z",
   "total_events": 121,
-  "live_match": 30,
+  "live_match": 40,
   "events": [
     {
       "id": "3058",
@@ -1433,6 +1433,320 @@
       "status": "LIVE"
     },
     {
+      "id": "3105",
+      "date": "27/11/2026",
+      "time": "5:00 AM",
+      "league": "Football | Brasileirão Série A",
+      "team1": "São Paulo",
+      "team2": "Remo",
+      "logo1": "https://img.sofascore.com/api/v1/team/1981/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2012/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795713875-0-0-4ba86d3f7ee2538c7429cdac67203152",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3106",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | League One",
+      "team1": "Doncaster",
+      "team2": "Huddersfield",
+      "logo1": "https://img.sofascore.com/api/v1/team/84/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/59/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=0a5b049b1298b434fc8a33952188e534&wsABSTime=1795756839",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3107",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Freiburg",
+      "team2": "FC Twente",
+      "logo1": "https://img.sofascore.com/api/v1/team/2538/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2955/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Sky Top Event- AQ",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795713879-0-0-6e72425671fbb008908242ca66e21b5b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3108",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Braga",
+      "team2": "KuPS",
+      "logo1": "https://img.sofascore.com/api/v1/team/2999/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2244/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-21.flv?auth_key=3000001795713892-0-0-9131a743b9e1d2b67ddb66e003beb69c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3109",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Conference League",
+      "team1": "CSKA Sofia",
+      "team2": "Trabzonspor",
+      "logo1": "https://img.sofascore.com/api/v1/team/3275/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3051/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795713633-0-0-3465f951c4bc54bd518624e1c4ea67f7",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3110",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Gent",
+      "team2": "Red Star Belgrade",
+      "logo1": "https://img.sofascore.com/api/v1/team/2903/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/5149/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-20.flv?auth_key=3000001795713719-0-0-7a58e9a92c0f031b5f78e371e1cfcab1",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3111",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Inter Escaldes",
+      "team2": "FC Copenhagen",
+      "logo1": "https://img.sofascore.com/api/v1/team/37946/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/1284/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=a15a3759c88dfe217435e2640b158c0e&wsABSTime=1795756896",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795713702-0-0-7324c89e06c2268a6fb494a8a2747aeb",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3112",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Hajduk Split",
+      "team2": "Sint-Truiden",
+      "logo1": "https://img.sofascore.com/api/v1/team/2036/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2895/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=1edb0ffbd155806e97bec7de90b9fc1e&wsABSTime=1795756874",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3113",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Borac Banjaluka",
+      "team2": "Atalanta",
+      "logo1": "https://img.sofascore.com/api/v1/team/5235/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2686/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795713593-0-0-25c47a1c176833863f76fad866c9c6a4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=d771ac6605369e0c8fab98afa799a28d&txTime=6b089479",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3114",
+      "date": "27/11/2026",
+      "time": "2:00 AM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Nordsjælland",
+      "team2": "Panathinaikos",
+      "logo1": "https://img.sofascore.com/api/v1/team/1292/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3248/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=0b36bc2539a0e19383a9fc0d8da655f2&wsABSTime=1795756966",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795713772-0-0-22616be0e7ded7fd2e7a299294faf794",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3126",
       "date": "27/11/2026",
       "time": "4:10 PM",
@@ -1512,156 +1826,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "3105",
-      "date": "27/11/2026",
-      "time": "5:00 AM",
-      "league": "Football | Brasileirão Série A",
-      "team1": "São Paulo",
-      "team2": "Remo",
-      "logo1": "https://img.sofascore.com/api/v1/team/1981/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2012/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3106",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | League One",
-      "team1": "Doncaster",
-      "team2": "Huddersfield",
-      "logo1": "https://img.sofascore.com/api/v1/team/84/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/59/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3107",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Freiburg",
-      "team2": "FC Twente",
-      "logo1": "https://img.sofascore.com/api/v1/team/2538/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2955/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3108",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Braga",
-      "team2": "KuPS",
-      "logo1": "https://img.sofascore.com/api/v1/team/2999/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2244/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3109",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Conference League",
-      "team1": "CSKA Sofia",
-      "team2": "Trabzonspor",
-      "logo1": "https://img.sofascore.com/api/v1/team/3275/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3051/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3110",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Gent",
-      "team2": "Red Star Belgrade",
-      "logo1": "https://img.sofascore.com/api/v1/team/2903/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5149/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3111",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Inter Escaldes",
-      "team2": "FC Copenhagen",
-      "logo1": "https://img.sofascore.com/api/v1/team/37946/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1284/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3112",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Hajduk Split",
-      "team2": "Sint-Truiden",
-      "logo1": "https://img.sofascore.com/api/v1/team/2036/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2895/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3113",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Borac Banjaluka",
-      "team2": "Atalanta",
-      "logo1": "https://img.sofascore.com/api/v1/team/5235/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2686/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3114",
-      "date": "27/11/2026",
-      "time": "2:00 AM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Nordsjælland",
-      "team2": "Panathinaikos",
-      "logo1": "https://img.sofascore.com/api/v1/team/1292/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3248/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
     },
     {
       "id": "3115",
