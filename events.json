@@ -1,7 +1,7 @@
 {
-  "last_updated": "26 Nov 2026, 11:30:22 PM BST",
-  "last_updated_iso": "2026-11-26T17:30:22.891Z",
-  "total_events": 128,
+  "last_updated": "26 Nov 2026, 11:40:19 PM BST",
+  "last_updated_iso": "2026-11-26T17:40:19.416Z",
+  "total_events": 124,
   "live_match": 23,
   "events": [
     {
@@ -167,6 +167,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -320,6 +327,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -348,6 +362,13 @@
           "name": "Server - 2",
           "url": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795710256-0-0-b98d240c01519f0fa69362802ab98b0b",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -408,34 +429,11 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3079",
-      "date": "26/11/2026",
-      "time": "9:30 PM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Kairat Almaty",
-      "team2": "Mjällby AIF",
-      "logo1": "https://img.sofascore.com/api/v1/team/5172/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/1783/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
         },
         {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795699282-0-0-3545e56957d58afaeddcbc72f596d684",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -600,29 +598,161 @@
       "status": "LIVE"
     },
     {
-      "id": "3090",
+      "id": "3085",
       "date": "26/11/2026",
-      "time": "9:05 PM",
-      "league": "Football | Saudi League",
-      "team1": "Abha Club",
-      "team2": "Al Shabab",
-      "logo1": "https://img.sofascore.com/api/v1/team/168090/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/34313/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Jablonec",
+      "team2": "FC Lugano",
+      "logo1": "https://img.sofascore.com/api/v1/team/2205/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2443/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
           "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel8.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "url": "https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=3e1c66a4192826d45ab773743bf7aad9&wsABSTime=1795753266",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel17/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
           "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795699158-0-0-6c67d79158b4fe4d80dfa8db0f3daacc",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795710071-0-0-35d11cce7882e4ce8aa00712235c5771",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/krrrAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3086",
+      "date": "26/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Conference League",
+      "team1": "FC Iberia 1999",
+      "team2": "Getafe",
+      "logo1": "https://img.sofascore.com/api/v1/team/116312/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2859/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=5589f2d2e33d98935de32e01c8a234bc&wsABSTime=1795753259",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-22.flv?auth_key=3000001795710065-0-0-c22691f5a19b90c7bce90e4a634fda0c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.41/hls/krrrAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3087",
+      "date": "26/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Brighton",
+      "team2": "CS Universitatea Craiova",
+      "logo1": "https://img.sofascore.com/api/v1/team/30/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/116223/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=c998e13f9e22abfa11c945ee46c36583&wsABSTime=1795756794",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795713600-0-0-fed24df7696fd65c3b45a7df7eaeebff",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/krrrAAAAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1795706469-0-0-affc02aa2ecdab4df62855488c46f026",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=e915f41ee51f30d0097b56b8fe74c1eb&wsABSTime=1795710112",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3088",
+      "date": "26/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Conference League",
+      "team1": "Ajax",
+      "team2": "FC Thun",
+      "logo1": "https://img.sofascore.com/api/v1/team/2953/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2454/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=8be133aaec7d4a07794acb7dfe1d87e3&wsABSTime=1795756758",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795713564-0-0-21211159f468924d180156e0cf8dd0d9",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/krrrAAAAAQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -783,108 +913,6 @@
       "status": "LIVE"
     },
     {
-      "id": "3194",
-      "date": "26/11/2026",
-      "time": "9:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "Morocco U17",
-      "team2": "Spain U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4778/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/4698/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "TSN SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "name": "D Sports ES - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795699383-0-0-93cd4010ebefe5566f8fd47c3286536d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1795689789-0-0-513470fa8fd32c8d184ab222000637c3",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795689729-0-0-0d7f571fc2bd75e9903691de56d42b99",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel9.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3195",
-      "date": "26/11/2026",
-      "time": "9:00 PM",
-      "league": "Football | U17 World Championship",
-      "team1": "China U17",
-      "team2": "Fiji U17",
-      "logo1": "https://img.sofascore.com/api/v1/team/4755/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/8044/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel17.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795699603-0-0-80225df27bcbea98c560c762bab68e05",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel17.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "3196",
       "date": "26/11/2026",
       "time": "10:00 PM",
@@ -1036,66 +1064,6 @@
         }
       ],
       "status": "LIVE"
-    },
-    {
-      "id": "3085",
-      "date": "26/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Jablonec",
-      "team2": "FC Lugano",
-      "logo1": "https://img.sofascore.com/api/v1/team/2205/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2443/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3086",
-      "date": "26/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Conference League",
-      "team1": "FC Iberia 1999",
-      "team2": "Getafe",
-      "logo1": "https://img.sofascore.com/api/v1/team/116312/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2859/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3087",
-      "date": "26/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Brighton",
-      "team2": "CS Universitatea Craiova",
-      "logo1": "https://img.sofascore.com/api/v1/team/30/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/116223/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3088",
-      "date": "26/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Conference League",
-      "team1": "Ajax",
-      "team2": "FC Thun",
-      "logo1": "https://img.sofascore.com/api/v1/team/2953/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2454/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
     },
     {
       "id": "3095",
