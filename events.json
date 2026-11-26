@@ -1,8 +1,8 @@
 {
-  "last_updated": "26 Nov 2026, 08:00:31 PM BST",
-  "last_updated_iso": "2026-11-26T14:00:31.406Z",
+  "last_updated": "26 Nov 2026, 08:10:19 PM BST",
+  "last_updated_iso": "2026-11-26T14:10:19.360Z",
   "total_events": 136,
-  "live_match": 9,
+  "live_match": 10,
   "events": [
     {
       "id": "3071",
@@ -498,6 +498,57 @@
         {
           "name": "Server - 4",
           "url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3204",
+      "date": "26/11/2026",
+      "time": "8:30 PM",
+      "league": "Cricket | ILT20 2026",
+      "team1": "Abu Dhabi Knight Riders",
+      "team2": "MI Emirates",
+      "logo1": "https://cricketvectors.akamaized.net/Teams/M3.png",
+      "logo2": "https://cricketvectors.akamaized.net/Teams/M6.png",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744"
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744"
+        },
+        {
+          "name": "fancode - Aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "name": "UNITE8 HIN HD",
+          "url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -1340,21 +1391,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/4715/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4824/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3204",
-      "date": "26/11/2026",
-      "time": "8:30 PM",
-      "league": "Cricket | ILT20 2026",
-      "team1": "Abu Dhabi Knight Riders",
-      "team2": "MI Emirates",
-      "logo1": "https://cricketvectors.akamaized.net/Teams/M3.png",
-      "logo2": "https://cricketvectors.akamaized.net/Teams/M6.png",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": [],
