@@ -1,9 +1,206 @@
 {
-  "last_updated": "26 Nov 2026, 11:10:18 PM BST",
-  "last_updated_iso": "2026-11-26T17:10:18.675Z",
+  "last_updated": "26 Nov 2026, 11:20:17 PM BST",
+  "last_updated_iso": "2026-11-26T17:20:17.560Z",
   "total_events": 128,
-  "live_match": 9,
+  "live_match": 14,
   "events": [
+    {
+      "id": "3058",
+      "date": "26/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Europa League",
+      "team1": "Besiktas",
+      "team2": "Hapoel Beer Sheva",
+      "logo1": "https://img.sofascore.com/api/v1/team/3050/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/5202/image",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795709992-0-0-3b4b64066b33cda3a9f72a6185a6afd7",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=e5c18f17345bb244bd370ce2089961c2&txTime=6b089041",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3059",
+      "date": "26/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Europa League",
+      "team1": "Marseille",
+      "team2": "Levski Sofia",
+      "logo1": "https://img.sofascore.com/api/v1/team/1641/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3273/image",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795710147-0-0-94a70c7aa3c43bb2ba36a55b9beafdd5",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795706529-0-0-f9cde86648a60b885d2f3c02da2b6d0c",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1795706589-0-0-15b666b0f7b331d7fd5c78b32f74f7ea",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3060",
+      "date": "26/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Europa League",
+      "team1": "Dinamo Zagreb",
+      "team2": "Leverkusen",
+      "logo1": "https://img.sofascore.com/api/v1/team/2032/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2681/image",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795710046-0-0-37e1fe88a88c5f81d8a667955351de02",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=9bfc07fe5bec7a1751f8dc167de8d639&txTime=6b08952d",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1795706589-0-0-d198527f2c2c818c6c46b22a68671389",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel5.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 6",
+          "url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3061",
+      "date": "26/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | UEFA Europa League",
+      "team1": "St. Gilloise",
+      "team2": "Lech Poznan",
+      "logo1": "https://img.sofascore.com/api/v1/team/4860/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3121/image",
+      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795710332-0-0-44dc9f4809aa226240049f577e5333d0",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "3079",
       "date": "26/11/2026",
@@ -58,6 +255,36 @@
           "name": "Server - 2",
           "url": "https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795699158-0-0-6c67d79158b4fe4d80dfa8db0f3daacc",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3091",
+      "date": "26/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | Saudi League",
+      "team1": "Al Faysaly",
+      "team2": "Diriyah",
+      "logo1": "https://img.sofascore.com/api/v1/team/56035/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel25.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795709966-0-0-a917f0a149aa77403f2ffb30815d77e3",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -443,66 +670,6 @@
       "status": "LIVE"
     },
     {
-      "id": "3058",
-      "date": "26/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Europa League",
-      "team1": "Besiktas",
-      "team2": "Hapoel Beer Sheva",
-      "logo1": "https://img.sofascore.com/api/v1/team/3050/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/5202/image",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3059",
-      "date": "26/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Europa League",
-      "team1": "Marseille",
-      "team2": "Levski Sofia",
-      "logo1": "https://img.sofascore.com/api/v1/team/1641/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3273/image",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3060",
-      "date": "26/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Europa League",
-      "team1": "Dinamo Zagreb",
-      "team2": "Leverkusen",
-      "logo1": "https://img.sofascore.com/api/v1/team/2032/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2681/image",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3061",
-      "date": "26/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | UEFA Europa League",
-      "team1": "St. Gilloise",
-      "team2": "Lech Poznan",
-      "logo1": "https://img.sofascore.com/api/v1/team/4860/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3121/image",
-      "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3062",
       "date": "26/11/2026",
       "time": "11:45 PM",
@@ -692,21 +859,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2953/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2454/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3091",
-      "date": "26/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Faysaly",
-      "team2": "Diriyah",
-      "logo1": "https://img.sofascore.com/api/v1/team/56035/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/853574/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
       "streams": [],
