@@ -1,9 +1,53 @@
 {
-  "last_updated": "27 Nov 2026, 06:00:31 PM BST",
-  "last_updated_iso": "2026-11-27T12:00:31.758Z",
+  "last_updated": "27 Nov 2026, 06:10:17 PM BST",
+  "last_updated_iso": "2026-11-27T12:10:17.933Z",
   "total_events": 136,
-  "live_match": 4,
+  "live_match": 5,
   "events": [
+    {
+      "id": "3118",
+      "date": "27/11/2026",
+      "time": "6:15 PM",
+      "league": "Football | Saudi League",
+      "team1": "Al-Kholood",
+      "team2": "Al Khaleej",
+      "logo1": "https://img.sofascore.com/api/v1/team/269199/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/167228/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795778350-0-0-2602563ca2d40a8926248afc26bfc373",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "http://193.47.62.55/hls/DEDEDEAAAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
     {
       "id": "3123",
       "date": "28/11/2026",
@@ -331,21 +375,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/5885/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2523/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3118",
-      "date": "27/11/2026",
-      "time": "6:15 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al-Kholood",
-      "team2": "Al Khaleej",
-      "logo1": "https://img.sofascore.com/api/v1/team/269199/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/167228/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
       "isHot": false,
       "visibility": "public",
       "streams": [],
