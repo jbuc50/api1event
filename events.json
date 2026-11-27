@@ -1,8 +1,8 @@
 {
-  "last_updated": "27 Nov 2026, 08:10:18 PM BST",
-  "last_updated_iso": "2026-11-27T14:10:18.916Z",
+  "last_updated": "27 Nov 2026, 08:20:18 PM BST",
+  "last_updated_iso": "2026-11-27T14:20:18.691Z",
   "total_events": 142,
-  "live_match": 9,
+  "live_match": 10,
   "events": [
     {
       "id": "3118",
@@ -297,6 +297,36 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3267",
+      "date": "28/11/2026",
+      "time": "7:00 AM",
+      "league": "Football | MLS",
+      "team1": "Columbus Crew",
+      "team2": "Inter Miami",
+      "logo1": "https://img.sofascore.com/api/v1/team/2504/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/337602/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "FOX1 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "name": "FOX DEPORTES FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
         }
       ],
       "status": "LIVE"
@@ -1540,21 +1570,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/5138/image",
       "logo2": "https://img.sofascore.com/api/v1/team/207011/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3267",
-      "date": "28/11/2026",
-      "time": "7:00 AM",
-      "league": "Football | MLS",
-      "team1": "Columbus Crew",
-      "team2": "Inter Miami",
-      "logo1": "https://img.sofascore.com/api/v1/team/2504/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/337602/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
       "streams": [],
