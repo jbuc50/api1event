@@ -1,8 +1,8 @@
 {
-  "last_updated": "27 Nov 2026, 03:10:20 PM BST",
-  "last_updated_iso": "2026-11-27T09:10:20.253Z",
+  "last_updated": "27 Nov 2026, 03:20:16 PM BST",
+  "last_updated_iso": "2026-11-27T09:20:16.848Z",
   "total_events": 136,
-  "live_match": 3,
+  "live_match": 4,
   "events": [
     {
       "id": "3123",
@@ -214,6 +214,36 @@
       "status": "LIVE"
     },
     {
+      "id": "3140",
+      "date": "27/11/2026",
+      "time": "4:00 PM",
+      "league": "Cricket | Men's Asia Cup Rising Stars",
+      "team1": "Pakistan A",
+      "team2": "Bangladesh A",
+      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
+      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "T SPORTS HD",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SONY SPORTS TEN 1 HD",
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3115",
       "date": "27/11/2026",
       "time": "11:30 PM",
@@ -313,21 +343,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/6362/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3085/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3140",
-      "date": "27/11/2026",
-      "time": "4:00 PM",
-      "league": "Cricket | Men's Asia Cup Rising Stars",
-      "team1": "Pakistan A",
-      "team2": "Bangladesh A",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
       "isHot": false,
       "visibility": "public",
       "streams": [],
