@@ -1,8 +1,8 @@
 {
-  "last_updated": "27 Nov 2026, 06:10:17 PM BST",
-  "last_updated_iso": "2026-11-27T12:10:17.933Z",
-  "total_events": 136,
-  "live_match": 5,
+  "last_updated": "27 Nov 2026, 06:20:18 PM BST",
+  "last_updated_iso": "2026-11-27T12:20:18.663Z",
+  "total_events": 143,
+  "live_match": 6,
   "events": [
     {
       "id": "3118",
@@ -170,85 +170,6 @@
       "status": "LIVE"
     },
     {
-      "id": "3125",
-      "date": "27/11/2026",
-      "time": "2:15 PM",
-      "league": "Cricket | T20 International",
-      "team1": "Australia",
-      "team2": "England",
-      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "FANCODE SD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "name": "TNT SPORTS - AQ",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "name": "TEN SPORTS HD",
-          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Tapmad - Aq",
-          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49"
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49"
-        },
-        {
-          "name": "AUSTRALIA TV - AQ",
-          "url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "fancode - Aq",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "name": "FANCODE - SD",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
       "id": "3126",
       "date": "27/11/2026",
       "time": "4:10 PM",
@@ -346,6 +267,80 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3330",
+      "date": "27/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Colombia U17",
+      "team2": "Serbia U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4820/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6355/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795778420-0-0-6f811dea9f0262b3b454e5fbac0b34df",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.55/hls/TFFFA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3331",
+      "date": "27/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Honduras U17",
+      "team2": "Japan U17",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/2390",
+      "logo2": "https://img.sofascore.com/api/v1/team/4770/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795778497-0-0-6a95d27c446abdfdcdc516a745c688c6",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.55/hls/TFFFAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -2312,6 +2307,96 @@
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
       "isHot": false,
       "visibility": "public",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "3332",
+      "date": "27/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Costa Rica U17",
+      "team2": "Brazil U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4756/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4748/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "3333",
+      "date": "27/11/2026",
+      "time": "8:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Ireland U17",
+      "team2": "Tanzania U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4693/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4835/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "3334",
+      "date": "27/11/2026",
+      "time": "9:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Montenegro U17",
+      "team2": "Chile U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/7139/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4754/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "3335",
+      "date": "27/11/2026",
+      "time": "9:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Algeria U17",
+      "team2": "Dominican Republic U17",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5109",
+      "logo2": "https://img.sofascore.com/api/v1/team/21813/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "3336",
+      "date": "27/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Venezuela U17",
+      "team2": "Mexico U17",
+      "logo1": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v13/Competitors/5072",
+      "logo2": "https://img.sofascore.com/api/v1/team/22629/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
+      "streams": [],
+      "status": "ENDED"
+    },
+    {
+      "id": "3337",
+      "date": "27/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | U17 World Championship",
+      "team1": "Romania U17",
+      "team2": "Cameroon U17",
+      "logo1": "https://img.sofascore.com/api/v1/team/4477/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/4751/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+      "isHot": false,
+      "visibility": "unpublic",
       "streams": [],
       "status": "ENDED"
     }
