@@ -1,6 +1,6 @@
 {
-  "last_updated": "28 Nov 2026, 05:30:21 AM BST",
-  "last_updated_iso": "2026-11-27T23:30:21.859Z",
+  "last_updated": "28 Nov 2026, 05:40:18 AM BST",
+  "last_updated_iso": "2026-11-27T23:40:18.391Z",
   "total_events": 116,
   "live_match": 3,
   "events": [
@@ -300,6 +300,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "TSN1 SPORTS FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         }
       ],
       "status": "LIVE"
