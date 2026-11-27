@@ -1,190 +1,9 @@
 {
-  "last_updated": "28 Nov 2026, 01:30:23 AM BST",
-  "last_updated_iso": "2026-11-27T19:30:23.192Z",
-  "total_events": 129,
-  "live_match": 8,
+  "last_updated": "28 Nov 2026, 01:40:18 AM BST",
+  "last_updated_iso": "2026-11-27T19:40:18.258Z",
+  "total_events": 125,
+  "live_match": 7,
   "events": [
-    {
-      "id": "3115",
-      "date": "27/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Bochum",
-      "team2": "SV Darmstadt 98",
-      "logo1": "https://img.sofascore.com/api/v1/team/2542/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2576/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel1.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795789587-0-0-044cf44a13c991f1d579625fd8fce6a1",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1795794129-0-0-a3dad03161d636bf603fd15c1613025b",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795794129-0-0-5049270413819b7f2873f1235dc2f377",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel1.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "SKY TOP EVENT FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3116",
-      "date": "27/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "FC Heidenheim",
-      "team2": "FC Nürnberg",
-      "logo1": "https://img.sofascore.com/api/v1/team/5885/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2523/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "SKY TOP EVENT FHD",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795789333-0-0-0e06a2305f7bcc20d930432c22e33657",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=953746fa820422aea2b7223127cf8e30&txTime=6b09eb5d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=95354908a1f5a99246570dac2f211393&txTime=6b09eb5d",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
-    {
-      "id": "3120",
-      "date": "27/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ittihad",
-      "team2": "NEOM SC",
-      "logo1": "https://img.sofascore.com/api/v1/team/34315/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/530631/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [
-        {
-          "name": "FOX DEPORTES FHD",
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "name": "SPORTDIGITAL FUSSBALL - AQ",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "name": "Server - 1",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel13.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 2",
-          "url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795789187-0-0-d111892f81c5e390e34485b39a7c221a",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 3",
-          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=2e4931873b605c71e2acc99590601a7d&txTime=6b09e1c1",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 4",
-          "url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=f74013cb8f994c66d8ade46dd9f8a5c7&txTime=6b09e185",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        },
-        {
-          "name": "Server - 5",
-          "url": "https://live3979.zundrixmediapipeline.com/live/channel13.m3u8",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": ""
-        }
-      ],
-      "status": "LIVE"
-    },
     {
       "id": "3123",
       "date": "28/11/2026",
@@ -307,52 +126,66 @@
       "status": "LIVE"
     },
     {
-      "id": "3140",
-      "date": "27/11/2026",
-      "time": "4:00 PM",
-      "league": "Cricket | Men's Asia Cup Rising Stars",
-      "team1": "Pakistan A",
-      "team2": "Bangladesh A",
-      "logo1": "https://img.sofascore.com/api/v1/team/187754/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187744/image",
-      "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
+      "id": "3233",
+      "date": "28/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | Ligue 1",
+      "team1": "Brest",
+      "team2": "Paris FC",
+      "logo1": "https://img.sofascore.com/api/v1/team/1715/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/6070/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
       "isHot": false,
       "visibility": "public",
       "streams": [
         {
-          "name": "T SPORTS HD",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8",
+          "name": "beIN SPORTS FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "name": "beIN ESPNAOL FHD",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795807184-0-0-f17eb75166b1b9c6499fd89d4451e2df",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=33cabc7a743176316badc85669c2cd81&txTime=6b09d4dd",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "SONY SPORTS TEN 1 HD",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8",
+          "name": "Server - 4",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel16.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         },
         {
-          "name": "sonyliv - aq",
-          "url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198",
+          "name": "Server - 5",
+          "url": "https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
-        },
-        {
-          "name": "willow - aq",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
-        },
-        {
-          "name": "willow - alt",
-          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
-          "referer": "",
-          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
         }
       ],
       "status": "LIVE"
@@ -408,6 +241,115 @@
         {
           "name": "Server - 4",
           "url": "https://playback.livetl005.com/live/69a1aaa7230584579e2d5ce1.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3244",
+      "date": "28/11/2026",
+      "time": "1:45 AM",
+      "league": "Football | Serie A",
+      "team1": "Venezia",
+      "team2": "Bologna",
+      "logo1": "https://img.sofascore.com/api/v1/team/2688/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2685/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "beIN ENGLISH FHD",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "name": "SPORT1 CZ FHD",
+          "url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795807538-0-0-39262fee9712ce7482834d9dc6dfb1f7",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://playback.livetl004.com/live/69b8e6f43bcf2231c35d5144.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3247",
+      "date": "28/11/2026",
+      "time": "1:00 AM",
+      "league": "Football | Eredivisie",
+      "team1": "Groningen",
+      "team2": "Willem II",
+      "logo1": "https://img.sofascore.com/api/v1/team/2951/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2961/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-20.flv?auth_key=3000001795807265-0-0-33e808bac459a46f20567e248eb832fd",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "http://193.47.62.44/hls/G222AA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795794189-0-0-f580ba9e2f3a661a0a5e27bdaf9bdc75",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -910,21 +852,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3233",
-      "date": "28/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | Ligue 1",
-      "team1": "Brest",
-      "team2": "Paris FC",
-      "logo1": "https://img.sofascore.com/api/v1/team/1715/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/6070/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3234",
       "date": "28/11/2026",
       "time": "10:15 PM",
@@ -1060,21 +987,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3244",
-      "date": "28/11/2026",
-      "time": "1:45 AM",
-      "league": "Football | Serie A",
-      "team1": "Venezia",
-      "team2": "Bologna",
-      "logo1": "https://img.sofascore.com/api/v1/team/2688/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2685/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3245",
       "date": "28/11/2026",
       "time": "8:00 PM",
@@ -1099,21 +1011,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2696/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2699/image",
       "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3247",
-      "date": "28/11/2026",
-      "time": "1:00 AM",
-      "league": "Football | Eredivisie",
-      "team1": "Groningen",
-      "team2": "Willem II",
-      "logo1": "https://img.sofascore.com/api/v1/team/2951/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2961/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
       "isHot": false,
       "visibility": "public",
       "streams": [],
