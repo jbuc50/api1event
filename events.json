@@ -1,8 +1,8 @@
 {
-  "last_updated": "27 Nov 2026, 01:50:26 PM BST",
-  "last_updated_iso": "2026-11-27T07:50:26.562Z",
+  "last_updated": "27 Nov 2026, 02:00:26 PM BST",
+  "last_updated_iso": "2026-11-27T08:00:26.846Z",
   "total_events": 136,
-  "live_match": 2,
+  "live_match": 3,
   "events": [
     {
       "id": "3123",
@@ -121,6 +121,43 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3125",
+      "date": "27/11/2026",
+      "time": "2:15 PM",
+      "league": "Cricket | T20 International",
+      "team1": "Australia",
+      "team2": "England",
+      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "FANCODE SD",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "name": "TNT SPORTS - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "name": "TEN SPORTS HD",
+          "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -255,21 +292,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/6362/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3085/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3125",
-      "date": "27/11/2026",
-      "time": "2:15 PM",
-      "league": "Cricket | T20 International",
-      "team1": "Australia",
-      "team2": "England",
-      "logo1": "https://img.sofascore.com/api/v1/team/187746/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187757/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11191/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
