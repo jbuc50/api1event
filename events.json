@@ -1,8 +1,8 @@
 {
-  "last_updated": "28 Nov 2026, 08:50:17 PM BST",
-  "last_updated_iso": "2026-11-28T14:50:17.101Z",
+  "last_updated": "28 Nov 2026, 09:00:25 PM BST",
+  "last_updated_iso": "2026-11-28T15:00:25.989Z",
   "total_events": 135,
-  "live_match": 31,
+  "live_match": 33,
   "events": [
     {
       "id": "3123",
@@ -1135,6 +1135,13 @@
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1293,6 +1300,59 @@
           "name": "LOW QUALITY",
           "url": "http://193.47.62.41/hls/SASASAA.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3262",
+      "date": "28/11/2026",
+      "time": "9:15 PM",
+      "league": "Football | LaLiga 2",
+      "team1": "Albacete",
+      "team2": "Tenerife",
+      "logo1": "https://img.sofascore.com/api/v1/team/2848/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2822/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "LALIGA HYPEMOTION - AQ",
+          "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=8213c62e6dd09c4acb4f20436d92b1a1&wsABSTime=1795918760",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3263",
+      "date": "28/11/2026",
+      "time": "9:15 PM",
+      "league": "Football | LaLiga 2",
+      "team1": "CD Eldense",
+      "team2": "Girona",
+      "logo1": "https://img.sofascore.com/api/v1/team/47321/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/24264/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "HD QUALITY",
+          "url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=51553f8e8e8fd179f98d6d3126260cc5&wsABSTime=1795918856",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1577,36 +1637,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2846/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2836/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3262",
-      "date": "28/11/2026",
-      "time": "9:15 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Albacete",
-      "team2": "Tenerife",
-      "logo1": "https://img.sofascore.com/api/v1/team/2848/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2822/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3263",
-      "date": "28/11/2026",
-      "time": "9:15 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "CD Eldense",
-      "team2": "Girona",
-      "logo1": "https://img.sofascore.com/api/v1/team/47321/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/24264/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
       "streams": [],
