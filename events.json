@@ -1,12 +1,12 @@
 {
-  "last_updated": "28 Nov 2026, 12:00:25 PM BST",
-  "last_updated_iso": "2026-11-28T06:00:25.642Z",
-  "total_events": 113,
-  "live_match": 1,
+  "last_updated": "28 Nov 2026, 12:10:21 PM BST",
+  "last_updated_iso": "2026-11-28T06:10:21.742Z",
+  "total_events": 112,
+  "live_match": 2,
   "events": [
     {
       "id": "3123",
-      "date": "28/11/2026",
+      "date": "29/11/2026",
       "time": "4:00 AM",
       "league": "Cricket | ICC Test Championship",
       "team1": "New Zealand",
@@ -174,6 +174,57 @@
         {
           "name": "sonyliv - kan",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795860896~acl=/*~id=38382230998765291970176061202927~hmac=07e39a0b5fd2c3773e0616253f26251662be395bc1a52a28206c7378b2704cf9",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3271",
+      "date": "28/11/2026",
+      "time": "10:40 AM",
+      "league": "Cricket | Women's Big Bash League",
+      "team1": "Melbourne Renegades Women",
+      "team2": "Melbourne Stars Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/274887/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/274886/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "willow sports - aq",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "name": "willow - aq",
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/29zmikjvfd/out/v1/67d74da2234e44aa9154e4d90eb2d83f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4"
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "willow - alt",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/29zmikjvfd/out/v1/67d74da2234e44aa9154e4d90eb2d83f/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4"
+        },
+        {
+          "name": "SKY CRICKET - AQ",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
@@ -977,21 +1028,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3271",
-      "date": "28/11/2026",
-      "time": "2:10 PM",
-      "league": "Cricket | Women's Big Bash League",
-      "team1": "Melbourne Renegades Women",
-      "team2": "Melbourne Stars Women",
-      "logo1": "https://img.sofascore.com/api/v1/team/274887/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/274886/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3272",
       "date": "28/11/2026",
       "time": "2:10 PM",
@@ -1766,21 +1802,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/22007/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2512/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3324",
-      "date": "29/11/2026",
-      "time": "4:00 AM",
-      "league": "Cricket | ICC Test Championship",
-      "team1": "New Zealand",
-      "team2": "India",
-      "logo1": "https://img.sofascore.com/api/v1/team/187755/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/187765/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/11189/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
