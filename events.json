@@ -1,8 +1,8 @@
 {
-  "last_updated": "28 Nov 2026, 10:20:18 PM BST",
-  "last_updated_iso": "2026-11-28T16:20:18.650Z",
+  "last_updated": "28 Nov 2026, 10:30:21 PM BST",
+  "last_updated_iso": "2026-11-28T16:30:21.935Z",
   "total_events": 130,
-  "live_match": 35,
+  "live_match": 41,
   "events": [
     {
       "id": "3123",
@@ -1322,6 +1322,57 @@
       "status": "LIVE"
     },
     {
+      "id": "3240",
+      "date": "28/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | Bundesliga",
+      "team1": "Stuttgart",
+      "team2": "Eintracht Frankfurt",
+      "logo1": "https://img.sofascore.com/api/v1/team/2677/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2674/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795879555-0-0-496e7bfbe9079d6e867cf952538d4b54",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1795870629-0-0-f0afa88c0aa93a031f5ed41042c3d519",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795870629-0-0-729d17ec9b36db36cbf2533666910746",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel6.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3246",
       "date": "28/11/2026",
       "time": "11:00 PM",
@@ -1410,6 +1461,36 @@
           "name": "Server - 2",
           "url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795875669-0-0-47f75c1fbf562a97c3cda08b4e4c3887",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3249",
+      "date": "28/11/2026",
+      "time": "11:45 PM",
+      "league": "Football | Eredivisie",
+      "team1": "PSV",
+      "team2": "Go Ahead Eagles",
+      "logo1": "https://img.sofascore.com/api/v1/team/2952/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2979/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795879471-0-0-89a1c538a88fbe5463b7840401c98dec",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1535,6 +1616,36 @@
       "status": "LIVE"
     },
     {
+      "id": "3255",
+      "date": "28/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | Saudi League",
+      "team1": "Al Ahli",
+      "team2": "Al Taawoun",
+      "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/56021/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795879181-0-0-fd3685e798bf6221263186bf99f4cb4e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3258",
       "date": "28/11/2026",
       "time": "9:15 PM",
@@ -1607,6 +1718,57 @@
       "status": "LIVE"
     },
     {
+      "id": "3259",
+      "date": "28/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | LaLiga",
+      "team1": "Elche",
+      "team2": "Atl. Madrid",
+      "logo1": "https://img.sofascore.com/api/v1/team/2846/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2836/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795879278-0-0-b710cd112de40b090d8f9cf2d73944a1",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1795875309-0-0-7d814e9df0b116d33a0624398420ce2e",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 4",
+          "url": "https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1795875309-0-0-70423dd44d65eb4aa24dab73a52037bd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 5",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel5.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3262",
       "date": "28/11/2026",
       "time": "9:15 PM",
@@ -1674,6 +1836,29 @@
       "status": "LIVE"
     },
     {
+      "id": "3264",
+      "date": "28/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | LaLiga 2",
+      "team1": "Eibar",
+      "team2": "Burgos",
+      "logo1": "https://img.sofascore.com/api/v1/team/2839/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2854/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=a579ecf9db407eaf059925b572266bf3&wsABSTime=1795922471",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
       "id": "3266",
       "date": "28/11/2026",
       "time": "10:00 PM",
@@ -1690,6 +1875,29 @@
           "name": "HD QUALITY",
           "url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=32b2c93b5b5871c00db144e3d3721d96&wsABSTime=1795918891",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3269",
+      "date": "28/11/2026",
+      "time": "11:30 PM",
+      "league": "Football | MLS",
+      "team1": "Charlotte FC",
+      "team2": "Chicago Fire",
+      "logo1": "https://img.sofascore.com/api/v1/team/404108/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2505/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel33.flv?wsSecret=8d619f620a430ac0a99bc1f0dbbe1594&wsABSTime=1795922421",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel33/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1750,96 +1958,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/187756/image",
       "logo2": "",
       "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3240",
-      "date": "28/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Bundesliga",
-      "team1": "Stuttgart",
-      "team2": "Eintracht Frankfurt",
-      "logo1": "https://img.sofascore.com/api/v1/team/2677/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2674/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3249",
-      "date": "28/11/2026",
-      "time": "11:45 PM",
-      "league": "Football | Eredivisie",
-      "team1": "PSV",
-      "team2": "Go Ahead Eagles",
-      "logo1": "https://img.sofascore.com/api/v1/team/2952/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2979/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3255",
-      "date": "28/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | Saudi League",
-      "team1": "Al Ahli",
-      "team2": "Al Taawoun",
-      "logo1": "https://img.sofascore.com/api/v1/team/34469/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/56021/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3259",
-      "date": "28/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | LaLiga",
-      "team1": "Elche",
-      "team2": "Atl. Madrid",
-      "logo1": "https://img.sofascore.com/api/v1/team/2846/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2836/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3264",
-      "date": "28/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Eibar",
-      "team2": "Burgos",
-      "logo1": "https://img.sofascore.com/api/v1/team/2839/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2854/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3269",
-      "date": "28/11/2026",
-      "time": "11:30 PM",
-      "league": "Football | MLS",
-      "team1": "Charlotte FC",
-      "team2": "Chicago Fire",
-      "logo1": "https://img.sofascore.com/api/v1/team/404108/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2505/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
       "isHot": false,
       "visibility": "public",
       "streams": [],
