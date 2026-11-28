@@ -1,8 +1,8 @@
 {
-  "last_updated": "28 Nov 2026, 09:20:19 PM BST",
-  "last_updated_iso": "2026-11-28T15:20:19.543Z",
+  "last_updated": "28 Nov 2026, 09:30:24 PM BST",
+  "last_updated_iso": "2026-11-28T15:30:24.575Z",
   "total_events": 132,
-  "live_match": 30,
+  "live_match": 34,
   "events": [
     {
       "id": "3123",
@@ -908,6 +908,34 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "PEACOCK ES - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rtcrpj7yj1/out/v1/bb07c5a510f643239a0a73878377d9d6/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "e888efc6b190f36237ea0cfb37b29d4f:a61e14099def87a5185b27235ae83800"
+        },
+        {
+          "name": "SKY SPORT DE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e"
+        },
+        {
+          "name": "SHAHID EN/AR - AQ",
+          "url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b"
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://www.rtmpcdn.com/live/82bae1ed-3746-40a3-985d-33b75a41fccf.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -957,6 +985,20 @@
           "name": "Server - 5",
           "url": "http://193.47.62.41/hls/KFFFQ.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "PEACOCK ES - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rknfkonbnx/out/v1/366e578cf16f468397abd0c10be40d67/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "5fd082fda7d6a9f67e706d697ff8f217:2ac6e5ec76cc0213f1a5b560bb6384bf"
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://www.rtmpcdn.com/live/ea8f0543-549b-4878-adb1-bac47d831a9b.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1024,6 +1066,27 @@
           "referer": "http://www.fawanews.sc/",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "PEACOCK ES - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uq231p5pdn/out/v1/33634b79a3de4f48b29b237b16398caa/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "9e030b437396a9f74fe6e458c3dc7be6:3c49b7436632e8ac88418458aee4b1a2"
+        },
+        {
+          "name": "SKY TOP EVENT - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://www.rtmpcdn.com/live/4084d6d1-87b7-4e40-8764-78cb568ef656.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1080,6 +1143,34 @@
           "name": "Server - 6",
           "url": "http://193.47.62.41/hls/KFFFQQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "SKY SPORT DE - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f"
+        },
+        {
+          "name": "PEACOCK ES - AQ",
+          "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8xmgbdd3a0/out/v1/ad13949204914ae084834ba24cf49f72/cenc.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "d5c8b8385c9ccede88f0a9bd519df0af:bf1aa762959b8882625ae06646c6514c"
+        },
+        {
+          "name": "SHAHID EN/AR - AQ",
+          "url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": "50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714"
+        },
+        {
+          "name": "HD QUALITY",
+          "url": "https://www.rtmpcdn.com/live/b5d03af5-de19-42e8-b50f-5d22cc8726e8.m3u8",
+          "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1159,6 +1250,96 @@
           "name": "HD QUALITY",
           "url": "https://chatgpt.hereisman.net/playlist/61251/load-playlist",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3248",
+      "date": "28/11/2026",
+      "time": "9:30 PM",
+      "league": "Football | Eredivisie",
+      "team1": "Excelsior",
+      "team2": "Telstar",
+      "logo1": "https://img.sofascore.com/api/v1/team/2967/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2972/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795875669-0-0-47f75c1fbf562a97c3cda08b4e4c3887",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3251",
+      "date": "28/11/2026",
+      "time": "9:30 PM",
+      "league": "Football | Liga Portugal",
+      "team1": "Arouca",
+      "team2": "Rio Ave",
+      "logo1": "https://img.sofascore.com/api/v1/team/25777/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3036/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795875671-0-0-bdced39a00ae7617b5345a39f55a5973",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3252",
+      "date": "28/11/2026",
+      "time": "9:30 PM",
+      "league": "Football | Liga Portugal",
+      "team1": "Moreirense",
+      "team2": "Santa Clara",
+      "logo1": "https://img.sofascore.com/api/v1/team/3014/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/3011/image",
+      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel25.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795875791-0-0-4f21659dd65681666c4d4325b0d04b05",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1270,6 +1451,20 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "Tapmad - Aq",
+          "url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.41/hls/KKKKAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1300,6 +1495,13 @@
           "referer": "",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.41/hls/KKKK.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
         }
       ],
       "status": "LIVE"
@@ -1321,6 +1523,36 @@
           "name": "HD QUALITY",
           "url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=51553f8e8e8fd179f98d6d3126260cc5&wsABSTime=1795918856",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "LOW QUALITY",
+          "url": "http://193.47.62.41/hls/KKKKA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3266",
+      "date": "28/11/2026",
+      "time": "10:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Gaziantep FK",
+      "team2": "Amed SK",
+      "logo1": "https://img.sofascore.com/api/v1/team/5138/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/207011/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "HD QUALITY",
+          "url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=32b2c93b5b5871c00db144e3d3721d96&wsABSTime=1795918891",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1491,21 +1723,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3248",
-      "date": "28/11/2026",
-      "time": "9:30 PM",
-      "league": "Football | Eredivisie",
-      "team1": "Excelsior",
-      "team2": "Telstar",
-      "logo1": "https://img.sofascore.com/api/v1/team/2967/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2972/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3249",
       "date": "28/11/2026",
       "time": "11:45 PM",
@@ -1515,36 +1732,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2952/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2979/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3251",
-      "date": "28/11/2026",
-      "time": "9:30 PM",
-      "league": "Football | Liga Portugal",
-      "team1": "Arouca",
-      "team2": "Rio Ave",
-      "logo1": "https://img.sofascore.com/api/v1/team/25777/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3036/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3252",
-      "date": "28/11/2026",
-      "time": "9:30 PM",
-      "league": "Football | Liga Portugal",
-      "team1": "Moreirense",
-      "team2": "Santa Clara",
-      "logo1": "https://img.sofascore.com/api/v1/team/3014/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/3011/image",
-      "leagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -1590,21 +1777,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2839/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2854/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3266",
-      "date": "28/11/2026",
-      "time": "10:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Gaziantep FK",
-      "team2": "Amed SK",
-      "logo1": "https://img.sofascore.com/api/v1/team/5138/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/207011/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
       "streams": [],
