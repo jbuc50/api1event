@@ -1,8 +1,8 @@
 {
-  "last_updated": "28 Nov 2026, 05:00:32 PM BST",
-  "last_updated_iso": "2026-11-28T11:00:32.424Z",
+  "last_updated": "28 Nov 2026, 05:10:18 PM BST",
+  "last_updated_iso": "2026-11-28T11:10:18.181Z",
   "total_events": 146,
-  "live_match": 3,
+  "live_match": 6,
   "events": [
     {
       "id": "3123",
@@ -175,6 +175,96 @@
           "name": "sonyliv - kan",
           "url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795860896~acl=/*~id=38382230998765291970176061202927~hmac=07e39a0b5fd2c3773e0616253f26251662be395bc1a52a28206c7378b2704cf9",
           "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3241",
+      "date": "28/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Bundesliga 2",
+      "team1": "Holstein Kiel",
+      "team2": "FC Kaiserslautern",
+      "logo1": "https://img.sofascore.com/api/v1/team/2573/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2675/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795861311-0-0-03e83d0e278549a7c975566483b2217d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3242",
+      "date": "28/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Bundesliga 2",
+      "team1": "Dresden",
+      "team2": "St. Pauli",
+      "logo1": "https://img.sofascore.com/api/v1/team/2595/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2526/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795861255-0-0-7be736af123eaf512eef155090934b6b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3243",
+      "date": "28/11/2026",
+      "time": "6:00 PM",
+      "league": "Football | Bundesliga 2",
+      "team1": "Hertha BSC",
+      "team2": "Karlsruher",
+      "logo1": "https://img.sofascore.com/api/v1/team/2528/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2553/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795861303-0-0-36b3ad041a543fb22c3a7f3d66220b89",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -743,51 +833,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2677/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2674/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3241",
-      "date": "28/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Holstein Kiel",
-      "team2": "FC Kaiserslautern",
-      "logo1": "https://img.sofascore.com/api/v1/team/2573/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2675/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3242",
-      "date": "28/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Dresden",
-      "team2": "St. Pauli",
-      "logo1": "https://img.sofascore.com/api/v1/team/2595/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2526/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3243",
-      "date": "28/11/2026",
-      "time": "6:00 PM",
-      "league": "Football | Bundesliga 2",
-      "team1": "Hertha BSC",
-      "team2": "Karlsruher",
-      "logo1": "https://img.sofascore.com/api/v1/team/2528/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2553/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
       "isHot": false,
       "visibility": "public",
       "streams": [],
