@@ -1,8 +1,8 @@
 {
-  "last_updated": "28 Nov 2026, 06:20:17 PM BST",
-  "last_updated_iso": "2026-11-28T12:20:17.537Z",
+  "last_updated": "28 Nov 2026, 06:30:25 PM BST",
+  "last_updated_iso": "2026-11-28T12:30:25.376Z",
   "total_events": 145,
-  "live_match": 11,
+  "live_match": 14,
   "events": [
     {
       "id": "3123",
@@ -529,6 +529,96 @@
           "name": "Tapmad - Aq",
           "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
           "referer": "https://www.tapmad.com/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3257",
+      "date": "28/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | LaLiga",
+      "team1": "Betis",
+      "team2": "Rayo",
+      "logo1": "https://img.sofascore.com/api/v1/team/2816/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2818/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795861468-0-0-a772d5ccfa73205093ed653c7e3e9e5b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 3",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel15.m3u8",
+          "referer": "",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3261",
+      "date": "28/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | LaLiga 2",
+      "team1": "Las Palmas",
+      "team2": "Andorra",
+      "logo1": "https://img.sofascore.com/api/v1/team/6577/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/324871/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=bab83e676a183a73263009f5af341a41&wsABSTime=1795904534",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        }
+      ],
+      "status": "LIVE"
+    },
+    {
+      "id": "3265",
+      "date": "28/11/2026",
+      "time": "7:00 PM",
+      "league": "Football | Super Lig",
+      "team1": "Samsunspor",
+      "team2": "Genclerbirligi",
+      "logo1": "https://img.sofascore.com/api/v1/team/3053/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/7802/image",
+      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+      "isHot": false,
+      "visibility": "public",
+      "streams": [
+        {
+          "name": "Server - 1",
+          "url": "https://live3979.zundrixmediapipeline.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm": ""
+        },
+        {
+          "name": "Server - 2",
+          "url": "https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795861496-0-0-06d346635b9192ba1e4ad7af9ebbc3e2",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm": ""
         }
@@ -1090,21 +1180,6 @@
       "status": "ENDED"
     },
     {
-      "id": "3257",
-      "date": "28/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | LaLiga",
-      "team1": "Betis",
-      "team2": "Rayo",
-      "logo1": "https://img.sofascore.com/api/v1/team/2816/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2818/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
       "id": "3258",
       "date": "28/11/2026",
       "time": "9:15 PM",
@@ -1129,21 +1204,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2846/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2836/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3261",
-      "date": "28/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | LaLiga 2",
-      "team1": "Las Palmas",
-      "team2": "Andorra",
-      "logo1": "https://img.sofascore.com/api/v1/team/6577/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/324871/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
       "isHot": false,
       "visibility": "public",
       "streams": [],
@@ -1189,21 +1249,6 @@
       "logo1": "https://img.sofascore.com/api/v1/team/2839/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2854/image",
       "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-      "isHot": false,
-      "visibility": "public",
-      "streams": [],
-      "status": "ENDED"
-    },
-    {
-      "id": "3265",
-      "date": "28/11/2026",
-      "time": "7:00 PM",
-      "league": "Football | Super Lig",
-      "team1": "Samsunspor",
-      "team2": "Genclerbirligi",
-      "logo1": "https://img.sofascore.com/api/v1/team/3053/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/7802/image",
-      "leagueLogo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
       "isHot": false,
       "visibility": "public",
       "streams": [],
